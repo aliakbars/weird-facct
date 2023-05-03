@@ -1,0 +1,1541 @@
+author_given	author_family	affiliation	DOI
+Smitha	Milli	University of California, Berkeley	10.1145/3287560.3287562
+Ludwig	Schmidt	University of California, Berkeley	10.1145/3287560.3287562
+Anca D.	Dragan	University of California, Berkeley	10.1145/3287560.3287562
+Moritz	Hardt	University of California, Berkeley	10.1145/3287560.3287562
+Berk	Ustun	Harvard University, Cambridge, MA	10.1145/3287560.3287566
+Alexander	Spangher	Carnegie Mellon University, Pittsburgh, PA	10.1145/3287560.3287566
+Yang	Liu	UC Santa Cruz CSE, Santa Cruz, CA	10.1145/3287560.3287566
+Chris	Russell	The University of Surrey and The Alan Turing Institute	10.1145/3287560.3287569
+Vivian	Lai	University of Colorado Boulder	10.1145/3287560.3287590
+Chenhao	Tan	University of Colorado Boulder	10.1145/3287560.3287590
+Samir	Passi	Information Science, Cornell University	10.1145/3287560.3287567
+Solon	Barocas	Information Science, Cornell University	10.1145/3287560.3287567
+Ben	Hutchinson	N/A	10.1145/3287560.3287600
+Margaret	Mitchell	N/A	10.1145/3287560.3287600
+Andrew D.	Selbst	Data &amp; Society Research Institute, New York, NY	10.1145/3287560.3287598
+Danah	Boyd	Microsoft Research and Data &amp; Society Research Institute, New York, NY	10.1145/3287560.3287598
+Sorelle A.	Friedler	Haverford College, Haverford, PA	10.1145/3287560.3287598
+Suresh	Venkatasubramanian	University of Utah, Salt Lake City, UT	10.1145/3287560.3287598
+Janet	Vertesi	Princeton University, Princeton, NJ	10.1145/3287560.3287598
+Severin	Engelmann	Technical University of Munich	10.1145/3287560.3287585
+Mo	Chen	Technical University of Munich	10.1145/3287560.3287585
+Felix	Fischer	Technical University of Munich and IF, London	10.1145/3287560.3287585
+Ching-yu	Kao	Fraunhofer Institute for Applied and Integrated Security	10.1145/3287560.3287585
+Jens	Grossklags	Technical University of Munich	10.1145/3287560.3287585
+Stevie	Chancellor	Georgia Tech, Atlanta, GA, US	10.1145/3287560.3287587
+Michael L.	Birnbaum	Northwell Health, Glen Oaks, NY, US	10.1145/3287560.3287587
+Eric D.	Caine	University of Rochester, Rochester, NY, US	10.1145/3287560.3287587
+Vincent M. B.	Silenzio	University of Rochester, Rochester, NY, US	10.1145/3287560.3287587
+Munmun	De Choudhury	Georgia Tech, Atlanta, GA, US	10.1145/3287560.3287587
+Ziad	Obermeyer	UC Berkeley, Berkeley, CA	10.1145/3287560.3287593
+Sendhil	Mullainathan	University of Chicago, Chicago, IL	10.1145/3287560.3287593
+Ben	Green	Harvard University	10.1145/3287560.3287563
+Yiling	Chen	Harvard University	10.1145/3287560.3287563
+Michael	Kearns	Department of Computer and Information Sciences, University of Pennsylvania	10.1145/3287560.3287592
+Seth	Neel	Department of Statistics, University of Pennsylvania	10.1145/3287560.3287592
+Aaron	Roth	Department of Computer and Information Sciences, University of Pennsylvania	10.1145/3287560.3287592
+Zhiwei Steven	Wu	Department of Computer Science and Engineering, University of Minnesota	10.1145/3287560.3287592
+Jake	Goldenfein	Cornell Tech, New York, New York and Cornell Tech, Cornell University and Swinburne University of Technology	10.1145/3287560.3287568
+Maria	De-Arteaga	Carnegie Mellon University	10.1145/3287560.3287572
+Alexey	Romanov	University of Massachusetts Lowell	10.1145/3287560.3287572
+Hanna	Wallach	Microsoft Research	10.1145/3287560.3287572
+Jennifer	Chayes	Microsoft Research	10.1145/3287560.3287572
+Christian	Borgs	Microsoft Research	10.1145/3287560.3287572
+Alexandra	Chouldechova	Carnegie Mellon University	10.1145/3287560.3287572
+Sahin	Geyik	LinkedIn	10.1145/3287560.3287572
+Krishnaram	Kenthapadi	LinkedIn	10.1145/3287560.3287572
+Adam Tauman	Kalai	Microsoft Research	10.1145/3287560.3287572
+Abhijnan	Chakraborty	MPI for Software Systems, Germany IIT Kharagpur, India	10.1145/3287560.3287570
+Gourab K.	Patro	IIT Kharagpur, India	10.1145/3287560.3287570
+Niloy	Ganguly	IIT Kharagpur, India	10.1145/3287560.3287570
+Krishna P.	Gummadi	MPI for Software Systems, Germany	10.1145/3287560.3287570
+Patrick	Loiseau	Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, LIG &amp; MPI SWS	10.1145/3287560.3287570
+Mahmoudreza	Babaei	MPI-SWS, Germany	10.1145/3287560.3287581
+Abhijnan	Chakraborty	MPI-SWS, Germany	10.1145/3287560.3287581
+Juhi	Kulshrestha	GESIS, Germany	10.1145/3287560.3287581
+Elissa M.	Redmiles	University of Maryland, US	10.1145/3287560.3287581
+Meeyoung	Cha	KAIST, South Korea	10.1145/3287560.3287581
+Krishna P.	Gummadi	MPI-SWS, Germany	10.1145/3287560.3287581
+Filipe N.	Ribeiro	UFOP/UFMG, Brazil	10.1145/3287560.3287580
+Koustuv	Saha	Georgia Tech, US	10.1145/3287560.3287580
+Mahmoudreza	Babaei	MPI-SWS, Germany	10.1145/3287560.3287580
+Lucas	Henrique	UFMG, Brazil	10.1145/3287560.3287580
+Johnnatan	Messias	MPI-SWS, Germany	10.1145/3287560.3287580
+Fabricio	Benevenuto	UFMG, Brazil	10.1145/3287560.3287580
+Oana	Goga	Univ. Grenoble Alpes, CNRS, Grenoble INP, LIG, France	10.1145/3287560.3287580
+Krishna P.	Gummadi	MPI-SWS, Germany	10.1145/3287560.3287580
+Elissa M.	Redmiles	University of Maryland, US	10.1145/3287560.3287580
+Dimitrios	Bountouridis	Delft University of Technology, The Netherlands	10.1145/3287560.3287583
+Jaron	Harambam	Institute for Information Law, University of Amsterdam, The Netherlands	10.1145/3287560.3287583
+Mykola	Makhortykh	Amsterdam School of Communication Research, University of Amsterdam, The Netherlands	10.1145/3287560.3287583
+MÃ³nica	Marrero	Delft University of Technology, The Netherlands	10.1145/3287560.3287583
+Nava	Tintarev	Delft University of Technology, The Netherlands	10.1145/3287560.3287583
+Claudia	Hauff	Delft University of Technology, The Netherlands	10.1145/3287560.3287583
+L. Elisa	Celis	Yale University	10.1145/3287560.3287601
+Sayash	Kapoor	IIT Kanpur	10.1145/3287560.3287601
+Farnood	Salehi	Ã‰cole Polytechnique FÃ©dÃ©rale de Lausanne (EPFL)	10.1145/3287560.3287601
+Nisheeth	Vishnoi	Yale University	10.1145/3287560.3287601
+Hadi	Elzayn	University of Pennsylvania	10.1145/3287560.3287571
+Shahin	Jabbari	University of Pennsylvania	10.1145/3287560.3287571
+Christopher	Jung	University of Pennsylvania	10.1145/3287560.3287571
+Michael	Kearns	University of Pennsylvania	10.1145/3287560.3287571
+Seth	Neel	University of Pennsylvania	10.1145/3287560.3287571
+Aaron	Roth	University of Pennsylvania	10.1145/3287560.3287571
+Zachary	Schutzman	University of Pennsylvania	10.1145/3287560.3287571
+Moshe	Babaioff	Microsoft Research	10.1145/3287560.3287582
+Noam	Nisan	Hebrew University of Jerusalem	10.1145/3287560.3287582
+Inbal	Talgam-Cohen	Technion	10.1145/3287560.3287582
+Hoda	Heidari	ETH ZÃ¼rich	10.1145/3287560.3287584
+Michele	Loi	University of ZÃ¼rich	10.1145/3287560.3287584
+Krishna P.	Gummadi	MPI-SWS	10.1145/3287560.3287584
+Andreas	Krause	ETH ZÃ¼rich	10.1145/3287560.3287584
+Meg	Young	University of Washington	10.1145/3287560.3287577
+Luke	Rodriguez	University of Washington	10.1145/3287560.3287577
+Emily	Keller	University of Washington	10.1145/3287560.3287577
+Feiyang	Sun	University of Washington	10.1145/3287560.3287577
+Boyang	Sa	University of Washington	10.1145/3287560.3287577
+Jan	Whittington	University of Washington	10.1145/3287560.3287577
+Bill	Howe	University of Washington	10.1145/3287560.3287577
+Shan	Jiang	Northeastern University	10.1145/3287560.3287565
+John	Martin	Northeastern University	10.1145/3287560.3287565
+Christo	Wilson	Northeastern University	10.1145/3287560.3287565
+Aws	Albarghouthi	University of Wisconsin-Madison	10.1145/3287560.3287588
+Samuel	Vinitsky	University of Wisconsin-Madison	10.1145/3287560.3287588
+Margaret	Mitchell	N/A	10.1145/3287560.3287596
+Simone	Wu	N/A	10.1145/3287560.3287596
+Andrew	Zaldivar	N/A	10.1145/3287560.3287596
+Parker	Barnes	N/A	10.1145/3287560.3287596
+Lucy	Vasserman	N/A	10.1145/3287560.3287596
+Ben	Hutchinson	N/A	10.1145/3287560.3287596
+Elena	Spitzer	N/A	10.1145/3287560.3287596
+Inioluwa Deborah	Raji	N/A	10.1145/3287560.3287596
+Timnit	Gebru	N/A	10.1145/3287560.3287596
+Smitha	Milli	University of California, Berkeley	10.1145/3287560.3287576
+John	Miller	University of California, Berkeley	10.1145/3287560.3287576
+Anca D.	Dragan	University of California, Berkeley	10.1145/3287560.3287576
+Moritz	Hardt	University of California, Berkeley	10.1145/3287560.3287576
+Sampath	Kannan	University of Pennsylvania	10.1145/3287560.3287578
+Aaron	Roth	University of Pennsylvania	10.1145/3287560.3287578
+Juba	Ziani	California Institute of Technology	10.1145/3287560.3287578
+Nicole	Immorlica	Microsoft Research	10.1145/3287560.3287579
+Katrina	Ligett	Hebrew University of Jerusalem	10.1145/3287560.3287579
+Juba	Ziani	California Institute of Technology	10.1145/3287560.3287579
+Lily	Hu	Harvard University, Cambridge, MA	10.1145/3287560.3287597
+Nicole	Immorlica	Microsoft Research, Cambridge, MA	10.1145/3287560.3287597
+Jennifer Wortman	Vaughan	Microsoft Research, New York, NY	10.1145/3287560.3287597
+Bruce	Glymour	Department of Philosophy, Kansas State University, Manhattan, KS, USA	10.1145/3287560.3287573
+Jonathan	Herington	Department of Philosophy, Kansas State University, Manhattan, KS, USA	10.1145/3287560.3287573
+Brent	Mittelstadt	University of Oxford, The Alan Turing Institute	10.1145/3287560.3287574
+Chris	Russell	University of Surrey, The Alan Turing Institute	10.1145/3287560.3287574
+Sandra	Wachter	University of Oxford, The Alan Turing Institute	10.1145/3287560.3287574
+Sebastian	Benthall	New York University	10.1145/3287560.3287575
+Bruce D.	Haynes	University of California, Davis	10.1145/3287560.3287575
+Brenda	Leong	Future of Privacy Forum, Washington, D.C, USA	10.1145/3287560.3287591
+Evan	Selinger	Department of Philosophy, Rochester Institute of Technology, Rochester, NY, USA	10.1145/3287560.3287591
+Ran	Canetti	Boston University and Tel Aviv University	10.1145/3287560.3287561
+Aloni	Cohen	MIT	10.1145/3287560.3287561
+Nishanth	Dikkala	MIT	10.1145/3287560.3287561
+Govind	Ramnarayan	MIT	10.1145/3287560.3287561
+Sarah	Scheffler	Boston University	10.1145/3287560.3287561
+Adam	Smith	Boston University	10.1145/3287560.3287561
+L. Elisa	Celis	Yale University	10.1145/3287560.3287586
+Lingxiao	Huang	EPFL	10.1145/3287560.3287586
+Vijay	Keswani	EPFL	10.1145/3287560.3287586
+Nisheeth K.	Vishnoi	Yale University	10.1145/3287560.3287586
+Sorelle A.	Friedler	Haverford College	10.1145/3287560.3287589
+Carlos	Scheidegger	University of Arizona	10.1145/3287560.3287589
+Suresh	Venkatasubramanian	University of Utah	10.1145/3287560.3287589
+Sonam	Choudhary	University of Utah	10.1145/3287560.3287589
+Evan P.	Hamilton	Haverford College	10.1145/3287560.3287589
+Derek	Roth	Haverford College	10.1145/3287560.3287589
+Jiahao	Chen	N/A	10.1145/3287560.3287594
+Nathan	Kallus	Cornell Tech, New York, New York, USA	10.1145/3287560.3287594
+Xiaojie	Mao	Cornell Tech, New York, New York, USA	10.1145/3287560.3287594
+Geoffry	Svacha	N/A	10.1145/3287560.3287594
+Madeleine	Udell	Cornell University, Ithaca, New York, USA	10.1145/3287560.3287594
+David	Madras	University of Toronto, Vector Institute	10.1145/3287560.3287564
+Elliot	Creager	University of Toronto, Vector Institute	10.1145/3287560.3287564
+Toniann	Pitassi	University of Toronto, Vector Institute	10.1145/3287560.3287564
+Richard	Zemel	University of Toronto, Vector Institute	10.1145/3287560.3287564
+Hussein	Mouzannar	American University of Beirut	10.1145/3287560.3287599
+Mesrob I.	Ohannessian	Toyota Technological Institute at Chicago	10.1145/3287560.3287599
+Nathan	Srebro	Toyota Technological Institute at Chicago	10.1145/3287560.3287599
+Dallas	Card	Machine Learning Department, Carnegie Mellon University, Pittsburgh, Pennsylvania	10.1145/3287560.3287595
+Michael	Zhang	Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, Washington	10.1145/3287560.3287595
+Noah A.	Smith	Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, Washington and Allen Institute for Artificial, Intelligence, Seattle, Washington	10.1145/3287560.3287595
+Maranke	Wieringa	Utrecht University, Utrecht, The Netherlands	10.1145/3351095.3372833
+Ben	Green	Harvard University	10.1145/3351095.3372840
+SalomÃ©	Viljoen	Cornell University &amp; New York University	10.1145/3351095.3372840
+Sunny Seon	Kang	Inpher	10.1145/3351095.3373153
+Inioluwa Deborah	Raji	Partnership on AI	10.1145/3351095.3372873
+Andrew	Smart	Google	10.1145/3351095.3372873
+Rebecca N.	White	Google	10.1145/3351095.3372873
+Margaret	Mitchell	Google	10.1145/3351095.3372873
+Timnit	Gebru	Google	10.1145/3351095.3372873
+Ben	Hutchinson	Google	10.1145/3351095.3372873
+Jamila	Smith-Loud	Google	10.1145/3351095.3372873
+Daniel	Theron	Google	10.1145/3351095.3372873
+Parker	Barnes	Google	10.1145/3351095.3372873
+Michael	Katell	University of Washington	10.1145/3351095.3372874
+Meg	Young	University of Washington	10.1145/3351095.3372874
+Dharma	Dailey	University of Washington	10.1145/3351095.3372874
+Bernease	Herman	University of Washington	10.1145/3351095.3372874
+Vivian	Guetler	West Virginia University	10.1145/3351095.3372874
+Aaron	Tam	University of Washington	10.1145/3351095.3372874
+Corinne	Bintz	Middlebury College	10.1145/3351095.3372874
+Daniella	Raz	University of Michigan	10.1145/3351095.3372874
+P. M.	Krafft	University of Oxford and University of Washington	10.1145/3351095.3372874
+Kacper	Sokol	University of Bristol, Bristol, United Kingdom	10.1145/3351095.3372870
+Peter	Flach	University of Bristol, Bristol, United Kingdom	10.1145/3351095.3372870
+Margot E.	Kaminski	University of Colorado	10.1145/3351095.3372875
+Gianclaudio	Malgieri	Vrije Universiteit Brussels, Brussels, Belgium	10.1145/3351095.3372875
+Solon	Barocas	Microsoft Research and Cornell University	10.1145/3351095.3372830
+Andrew D.	Selbst	University of California Los Angeles	10.1145/3351095.3372830
+Manish	Raghavan	Cornell University	10.1145/3351095.3372830
+Ana	Lucic	University of Amsterdam, Amsterdam, Netherlands	10.1145/3351095.3372824
+Hinda	Haned	Ahold Delhaize, Zaandam, Netherlands	10.1145/3351095.3372824
+Maarten	de Rijke	University of Amsterdam, Amsterdam, Netherlands	10.1145/3351095.3372824
+Mark	Sendak	Duke Institute for Health Innovation	10.1145/3351095.3372827
+Madeleine Clare	Elish	Data &amp; Society Research Institute	10.1145/3351095.3372827
+Michael	Gao	Duke Institute for Health Innovation	10.1145/3351095.3372827
+Joseph	Futoma	Harvard University and Duke University	10.1145/3351095.3372827
+William	Ratliff	Duke Institute for Health Innovation	10.1145/3351095.3372827
+Marshall	Nichols	Duke Institute for Health Innovation	10.1145/3351095.3372827
+Armando	Bedoya	Duke School of Medicine	10.1145/3351095.3372827
+Suresh	Balu	Duke Institute for Health Innovation	10.1145/3351095.3372827
+Cara	O'Brien	Duke School of Medicine	10.1145/3351095.3372827
+Nathan	Kallus	Cornell University	10.1145/3351095.3373154
+Xiaojie	Mao	Cornell University	10.1145/3351095.3373154
+Angela	Zhou	Cornell University	10.1145/3351095.3373154
+Emily	Black	Carnegie Mellon University	10.1145/3351095.3372845
+Samuel	Yeom	Carnegie Mellon University	10.1145/3351095.3372845
+Matt	Fredrikson	Carnegie Mellon University	10.1145/3351095.3372845
+Frank	Marcinkowski	University of DÃ¼sseldorf, Germany	10.1145/3351095.3372867
+Kimon	Kieslich	University of DÃ¼sseldorf, Germany	10.1145/3351095.3372867
+Christopher	Starke	University of DÃ¼sseldorf, Germany	10.1145/3351095.3372867
+Marco	LÃ¼nich	University of DÃ¼sseldorf, Germany	10.1145/3351095.3372867
+Manoel Horta	Ribeiro	EPFL	10.1145/3351095.3372879
+Raphael	Ottoni	UFMG	10.1145/3351095.3372879
+Robert	West	EPFL	10.1145/3351095.3372879
+VirgÃ­lio A. F.	Almeida	UFMG	10.1145/3351095.3372879
+Wagner	Meira	UFMG	10.1145/3351095.3372879
+Kit T.	Rodolfa	Carnegie Mellon University	10.1145/3351095.3372863
+Erika	Salomon	University of Chicago	10.1145/3351095.3372863
+Lauren	Haynes	University of Chicago	10.1145/3351095.3372863
+IvÃ¡n Higuera	Mendieta	University of Chicago	10.1145/3351095.3372863
+Jamie	Larson	Los Angeles City Attorney's Office	10.1145/3351095.3372863
+Rayid	Ghani	Carnegie Mellon University	10.1145/3351095.3372863
+Gianclaudio	Malgieri	Vrije Universiteit Brussel, Brissels, Belgium	10.1145/3351095.3372868
+Chelsea	Barabas	Massachusetts Institute of Technology	10.1145/3351095.3372859
+Colin	Doyle	Harvard Law School	10.1145/3351095.3372859
+JB	Rubinovitz	Massachusetts Institute of Technology	10.1145/3351095.3372859
+Karthik	Dinakar	Harvard Law School	10.1145/3351095.3372859
+Bogdan	Kulynych	EPFL	10.1145/3351095.3372853
+Rebekah	Overdorf	EPFL	10.1145/3351095.3372853
+Carmela	Troncoso	EPFL	10.1145/3351095.3372853
+Seda	GÃ¼rses	TU Delft / KU Leuven	10.1145/3351095.3372853
+David	Pujol	Duke University	10.1145/3351095.3372872
+Ryan	McKenna	University of Massachusetts, Amherst	10.1145/3351095.3372872
+Satya	Kuppam	University of Massachusetts, Amherst	10.1145/3351095.3372872
+Michael	Hay	Colgate University	10.1145/3351095.3372872
+Ashwin	Machanavajjhala	Duke University	10.1145/3351095.3372872
+Gerome	Miklau	University of Massachusetts, Amherst	10.1145/3351095.3372872
+Dylan	Slack	University of California, Irvine	10.1145/3351095.3372839
+Sorelle A.	Friedler	Haverford College	10.1145/3351095.3372839
+Emile	Givental	Haverford College	10.1145/3351095.3372839
+Elettra	Bietti	Harvard Law School	10.1145/3351095.3372860
+Petros	Terzis	University of Winchester, Winchester, UK	10.1145/3351095.3373152
+Anne L.	Washington	New York University	10.1145/3351095.3372844
+Rachel	Kuo	New York University	10.1145/3351095.3372844
+Alejandro	Noriega-Campero	Prosperia Labs	10.1145/3351095.3375784
+Bernardo	Garcia-Bulle	MIT	10.1145/3351095.3375784
+Luis Fernando	Cantu	ITAM, Mexico City, Mexico	10.1145/3351095.3375784
+Michiel A.	Bakker	MIT	10.1145/3351095.3375784
+Luis	Tejerina	IADB	10.1145/3351095.3375784
+Alex	Pentland	MIT	10.1145/3351095.3375784
+Rediet	Abebe	Harvard University	10.1145/3351095.3372871
+Solon	Barocas	Microsoft Research and Cornell University	10.1145/3351095.3372871
+Jon	Kleinberg	Cornell University	10.1145/3351095.3372871
+Karen	Levy	Cornell University	10.1145/3351095.3372871
+Manish	Raghavan	Cornell University	10.1145/3351095.3372871
+David G.	Robinson	Cornell University	10.1145/3351095.3372871
+Ben	Wagner	Vienna University of Economics and Business	10.1145/3351095.3372856
+Krisztina	Rozgonyi	University of Vienna	10.1145/3351095.3372856
+Marie-Therese	Sekwenz	Vienna University of Economics and Business	10.1145/3351095.3372856
+Jennifer	Cobbe	University of Cambridge	10.1145/3351095.3372856
+Jatinder	Singh	University of Cambridge	10.1145/3351095.3372856
+Ehsan	Toreini	Newcastle University, United Kingdom	10.1145/3351095.3372834
+Mhairi	Aitken	Newcastle University, United Kingdom	10.1145/3351095.3372834
+Kovila	Coopamootoo	Newcastle University, United Kingdom	10.1145/3351095.3372834
+Karen	Elliott	Newcastle University, United Kingdom	10.1145/3351095.3372834
+Carlos Gonzalez	Zelaya	Newcastle University, United Kingdom	10.1145/3351095.3372834
+Aad	van Moorsel	Newcastle University, United Kingdom	10.1145/3351095.3372834
+Suresh	Venkatasubramanian	University of Utah	10.1145/3351095.3372876
+Mark	Alfano	Macquarie University	10.1145/3351095.3372876
+Ravit	Dotan	University of California	10.1145/3351095.3373157
+Smitha	Milli	University of California	10.1145/3351095.3373157
+Yunfeng	Zhang	IBM Research AI	10.1145/3351095.3372852
+Q. Vera	Liao	IBM Research AI	10.1145/3351095.3372852
+Rachel K. E.	Bellamy	IBM Research AI	10.1145/3351095.3372852
+Eun Seo	Jo	Stanford University	10.1145/3351095.3372829
+Timnit	Gebru	Google	10.1145/3351095.3372829
+Vidushi	Marda	Article 19	10.1145/3351095.3372865
+Shivangi	Narayan	Jawaharlal Nehru University	10.1145/3351095.3372865
+R. Stuart	Geiger	University of California	10.1145/3351095.3372862
+Kevin	Yu	University of California	10.1145/3351095.3372862
+Yanlai	Yang	University of California	10.1145/3351095.3372862
+Mindy	Dai	University of California	10.1145/3351095.3372862
+Jie	Qiu	University of California	10.1145/3351095.3372862
+Rebekah	Tang	University of California	10.1145/3351095.3372862
+Jenny	Huang	University of California	10.1145/3351095.3372862
+Milad	Nasr	University of Massachusetts Amherst	10.1145/3351095.3375783
+Michael Carl	Tschantz	International Computer Science Institute	10.1145/3351095.3375783
+Christina	Ilvento	Harvard University	10.1145/3351095.3372848
+Meena	Jagadeesan	Harvard University	10.1145/3351095.3372848
+Shuchi	Chawla	University of Wisconsin-Madison	10.1145/3351095.3372848
+Chris	Sweeney	MIT	10.1145/3351095.3372837
+Maryam	Najafian	MIT	10.1145/3351095.3372837
+L. Elisa	Celis	Yale University	10.1145/3351095.3372858
+Anay	Mehrotra	IIT Kanpur	10.1145/3351095.3372858
+Nisheeth K.	Vishnoi	Yale University	10.1145/3351095.3372858
+Lydia T.	Liu	University of California	10.1145/3351095.3372861
+Ashia	Wilson	Microsoft Research	10.1145/3351095.3372861
+Nika	Haghtalab	Cornell University	10.1145/3351095.3372861
+Adam Tauman	Kalai	Microsoft Research	10.1145/3351095.3372861
+Christian	Borgs	Microsoft Research	10.1145/3351095.3372861
+Jennifer	Chayes	Microsoft Research	10.1145/3351095.3372861
+Galen	Harrison	University of Chicago	10.1145/3351095.3372831
+Julia	Hanson	University of Chicago	10.1145/3351095.3372831
+Christine	Jacinto	University of Chicago	10.1145/3351095.3372831
+Julio	Ramirez	University of Chicago	10.1145/3351095.3372831
+Blase	Ur	University of Chicago	10.1145/3351095.3372831
+Lizhen	Liang	Syracuse University	10.1145/3351095.3375623
+Daniel E.	Acuna	Syracuse University	10.1145/3351095.3375623
+Michael	Castelle	University of Warwick	10.1145/3351095.3373156
+Jared	Moore	University of Washington	10.1145/3351095.3372854
+Jo	Bates	University of Sheffield, Sheffield, UK	10.1145/3351095.3372832
+David	Cameron	University of Sheffield, Sheffield, UK	10.1145/3351095.3372832
+Alessandro	Checco	University of Sheffield, Sheffield, UK	10.1145/3351095.3372832
+Paul	Clough	University of Sheffield, Sheffield, UK and Peak Indicators, Chesterfield, UK	10.1145/3351095.3372832
+Frank	Hopfgartner	University of Sheffield, Sheffield, UK	10.1145/3351095.3372832
+Suvodeep	Mazumdar	University of Sheffield, Sheffield, UK	10.1145/3351095.3372832
+Laura	Sbaffi	University of Sheffield, Sheffield, UK	10.1145/3351095.3372832
+Peter	Stordy	University of Sheffield, Sheffield, UK	10.1145/3351095.3372832
+Antonio	de la Vega de LeÃ³n	University of Sheffield, Sheffield, UK	10.1145/3351095.3372832
+Sarah	Dean	UC Berkeley	10.1145/3351095.3372866
+Sarah	Rich	Canopy Crest	10.1145/3351095.3372866
+Benjamin	Recht	UC Berkeley	10.1145/3351095.3372866
+Orestis	Papakyriakopoulos	Technical University of Munich, Munich, Germany	10.1145/3351095.3372843
+Simon	Hegelich	Technical University of Munich, Munich, Germany	10.1145/3351095.3372843
+Juan Carlos Medina	Serrano	Technical University of Munich, Munich, Germany	10.1145/3351095.3372843
+Fabienne	Marco	Technical University of Munich, Munich, Germany	10.1145/3351095.3372843
+Javier	SÃ¡nchez-Monedero	Cardiff University, Cardiff, Wales, United Kingdom	10.1145/3351095.3372849
+Lina	Dencik	Cardiff University, Cardiff, Wales, United Kingdom	10.1145/3351095.3372849
+Lilian	Edwards	University of Newcastle, Newcastle upon Tyne, England, United Kingdom	10.1145/3351095.3372849
+Manish	Raghavan	Cornell University	10.1145/3351095.3372828
+Solon	Barocas	Microsoft Research and Cornell University	10.1145/3351095.3372828
+Jon	Kleinberg	Cornell University	10.1145/3351095.3372828
+Karen	Levy	Cornell University	10.1145/3351095.3372828
+Kristian	Lum	Human Rights Data Analysis Group	10.1145/3351095.3372846
+Chesa	Boudin	San Francisco Public Defender's Office	10.1145/3351095.3372846
+Megan	Price	Human Rights Data Analysis Group	10.1145/3351095.3372846
+Miranda	Bogen	Upturn	10.1145/3351095.3372877
+Aaron	Rieke	Upturn	10.1145/3351095.3372877
+Shazeda	Ahmed	University of California	10.1145/3351095.3372877
+Alex	Hanna	N/A	10.1145/3351095.3372826
+Emily	Denton	N/A	10.1145/3351095.3372826
+Andrew	Smart	N/A	10.1145/3351095.3372826
+Jamila	Smith-Loud	N/A	10.1145/3351095.3372826
+Lily	Hu	Harvard University	10.1145/3351095.3375674
+Issa	Kohler-Hausmann	Yale University	10.1145/3351095.3375674
+Reuben	Binns	University of Oxford	10.1145/3351095.3372864
+Alexander	D'Amour	Google Research	10.1145/3351095.3372878
+Hansa	Srinivasan	Google Research	10.1145/3351095.3372878
+James	Atwood	Google Research	10.1145/3351095.3372878
+Pallavi	Baljekar	Google Research	10.1145/3351095.3372878
+D.	Sculley	Google Research	10.1145/3351095.3372878
+Yoni	Halpern	Google Research	10.1145/3351095.3372878
+Lily	Hu	Harvard University	10.1145/3351095.3372857
+Yiling	Chen	Harvard University	10.1145/3351095.3372857
+Michael P.	Kim	Stanford University	10.1145/3351095.3373155
+Aleksandra	Korolova	University of Southern California	10.1145/3351095.3373155
+Guy N.	Rothblum	Weizmann Institute of Science	10.1145/3351095.3373155
+Gal	Yona	Weizmann Institute of Science	10.1145/3351095.3373155
+Kaiyu	Yang	Princeton University	10.1145/3351095.3375709
+Klint	Qinami	Princeton University	10.1145/3351095.3375709
+Li	Fei-Fei	Stanford University	10.1145/3351095.3375709
+Jia	Deng	Princeton University	10.1145/3351095.3375709
+Olga	Russakovsky	Princeton University	10.1145/3351095.3375709
+Eni	Mustafaraj	Wellesley College	10.1145/3351095.3372835
+Emma	Lurie	University of California	10.1145/3351095.3372835
+Claire	Devine	Wellesley College	10.1145/3351095.3372835
+Glencora	Borradaile	Oregon State University	10.1145/3351095.3372841
+Brett	Burkhardt	Oregon State University	10.1145/3351095.3372841
+Alexandria	LeClerc	Oregon State University	10.1145/3351095.3372841
+JosÃ© Mena	RoldÃ¡n	Universitat de Barcelona	10.1145/3351095.3372825
+Oriol Pujol	Vila	Universitat de Barcelona	10.1145/3351095.3372825
+Jordi VitriÃ 	Marca	Universitat de Barcelona	10.1145/3351095.3372825
+Amanda	Coston	Carnegie Mellon University	10.1145/3351095.3372851
+Alan	Mishler	Carnegie Mellon University	10.1145/3351095.3372851
+Edward H.	Kennedy	Carnegie Mellon University	10.1145/3351095.3372851
+Alexandra	Chouldechova	Carnegie Mellon University	10.1145/3351095.3372851
+Ben	Green	Harvard University	10.1145/3351095.3372869
+Ramaravind K.	Mothilal	Microsoft Research India	10.1145/3351095.3372850
+Amit	Sharma	Microsoft Research India	10.1145/3351095.3372850
+Chenhao	Tan	University of Colorado Boulder	10.1145/3351095.3372850
+Jaspreet	Singh	L3S Research Center, Hannover, Germany	10.1145/3351095.3375234
+Avishek	Anand	L3S Research Center, Hannover, Germany	10.1145/3351095.3375234
+Cecilia	Panigutti	Scuola Normale Superiore	10.1145/3351095.3372855
+Alan	Perotti	ISI foundation	10.1145/3351095.3372855
+Dino	Pedreschi	University of Pisa	10.1145/3351095.3372855
+Leif	Hancox-Li	Capital One	10.1145/3351095.3372836
+Umang	Bhatt	Carnegie Mellon University and Partnership on AI and University of Cambridge and Leverhulme CFI	10.1145/3351095.3375624
+Alice	Xiang	Partnership on AI	10.1145/3351095.3375624
+Shubham	Sharma	University of Texas at Austin	10.1145/3351095.3375624
+Adrian	Weller	University of Cambridge and Leverhulme CFI and The Alan Turing Institute	10.1145/3351095.3375624
+Ankur	Taly	Fiddler Labs	10.1145/3351095.3375624
+Yunhan	Jia	Baidu	10.1145/3351095.3375624
+Joydeep	Ghosh	University of Texas at Austin and CognitiveScale	10.1145/3351095.3375624
+Ruchir	Puri	IBM Research	10.1145/3351095.3375624
+JosÃ© M. F.	Moura	Carnegie Mellon University	10.1145/3351095.3375624
+Peter	Eckersley	Partnership on AI	10.1145/3351095.3375624
+Kate	Donahue	Cornell University	10.1145/3351095.3372847
+Jon	Kleinberg	Cornell University	10.1145/3351095.3372847
+Hadi	Elzayn	University of Pennsylvania	10.1145/3351095.3372842
+Benjamin	Fish	Microsoft Research	10.1145/3351095.3372842
+Alan	Lundgard	Massachusetts Institute of Technology Cambridge, Massachusetts	10.1145/3351095.3372838
+Dylan	Baker	Google	10.1145/3351095.3375687
+Alex	Hanna	Google	10.1145/3351095.3375687
+Emily	Denton	Google AI	10.1145/3351095.3375687
+Kathy	Baxter	Salesforce, Inc.	10.1145/3351095.3375680
+Yoav	Schlesinger	Salesforce, Inc.	10.1145/3351095.3375680
+Sarah	Aerni	Salesforce, Inc.	10.1145/3351095.3375680
+Lewis	Baker	Pymetrics, Inc.	10.1145/3351095.3375680
+Julie	Dawson	Yoti, Inc.	10.1145/3351095.3375680
+Krishnaram	Kenthapadi	LinkedIn, Inc.	10.1145/3351095.3375680
+Isabel	Kloumann	Facebook, Inc.	10.1145/3351095.3375680
+Hanna	Wallach	Microsoft, Inc.	10.1145/3351095.3375680
+Helen	Pritchard	University of London	10.1145/3351095.3375697
+Eric	Snodgrass	Linnaeus University	10.1145/3351095.3375697
+Romi Ron	Morrison	University of Southern California	10.1145/3351095.3375697
+Loren	Britton	University of Kassel	10.1145/3351095.3375697
+Joana	Moll	Independent Artist and Researcher, Barcelona	10.1145/3351095.3375697
+Alexandra Reeve	Givens	Georgetown University Institute for Tech Law &amp; Policy	10.1145/3351095.3375686
+Meredith Ringel	Morris	Microsoft Research	10.1145/3351095.3375686
+Hannah	Sassaman	Media Mobilizing Project	10.1145/3351095.3375689
+Jennifer	Lee	ACLU Washington	10.1145/3351095.3375689
+Jenessa	Irvine	Media Mobilizing Project	10.1145/3351095.3375689
+Shankar	Narayan	Seattle	10.1145/3351095.3375689
+Alex	Hanna	N/A	10.1145/3351095.3375692
+Emily	Denton	N/A	10.1145/3351095.3375692
+Doris	Allhutter	Austrian Academy of Sciences, Vienna Austria	10.1145/3351095.3375688
+Bettina	Berendt	TU Berlin, Germany &amp; KU Leuven, Belgium	10.1145/3351095.3375688
+Marguerite	Barry	University College Dublin	10.1145/3351095.3375684
+Aphra	Kerr	Maynooth University	10.1145/3351095.3375684
+Oliver	Smith	TelefÃ³nica Innovation Alpha, Barcelona	10.1145/3351095.3375684
+Katarzyna	Szymielewicz	Panoptykon Foundation, Warsaw, Poland	10.1145/3351095.3375683
+Anna	Bacciarelli	Amnesty International UK, London, United Kingdom	10.1145/3351095.3375683
+Fanny	Hidvegi	AccessNow, Brussels, Belgium	10.1145/3351095.3375683
+Agata	Foryciarz	Stanford University	10.1145/3351095.3375683
+Soizic	PÃ©nicaud	French Prime Minister Services, Paris, France	10.1145/3351095.3375683
+Matthias	Spielkamp	AlgorithmWatch, Berlin, Germany	10.1145/3351095.3375683
+Muhammad Aurangzeb	Ahmad	University of Washington Tacoma / KenSci	10.1145/3351095.3375690
+Ankur	Teredesai	University of Washington Tacoma / KenSci	10.1145/3351095.3375690
+Carly	Eckert	University of Washington / KenSci	10.1145/3351095.3375690
+Patrick	Williams	Manchester Metropolitan University	10.1145/3351095.3375695
+Eric	Kind	Queen Mary University	10.1145/3351095.3375695
+Evelyn	Wan	Tilburg University, Tilburg, The Netherlands	10.1145/3351095.3375685
+Aviva	de Groot	Tilburg University, Tilburg, The Netherlands	10.1145/3351095.3375685
+Shazade	Jameson	Tilburg University, Tilburg, The Netherlands	10.1145/3351095.3375685
+Mara	PÄƒun	Tilburg University, Tilburg, The Netherlands	10.1145/3351095.3375685
+Phillip	LÃ¼cking	University of Kassel, Kassel, Germany	10.1145/3351095.3375685
+Goda	Klumbyte	University of Kassel, Kassel, Germany	10.1145/3351095.3375685
+Danny	LÃ¤mmerhirt	Siegen University, Siegen, Germany	10.1145/3351095.3375685
+Ezra	Goss	Georgia Institute of Technology	10.1145/3351095.3375682
+Lily	Hu	Harvard University	10.1145/3351095.3375682
+Manuel	Sabin	University of California	10.1145/3351095.3375682
+Stephanie	Teeple	University of Pennsylvania	10.1145/3351095.3375682
+Solon	Barocas	Cornell University	10.1145/3351095.3375691
+Asia J.	Biega	Microsoft Research	10.1145/3351095.3375691
+Benjamin	Fish	Microsoft Research	10.1145/3351095.3375691
+JÄ™drzej	Niklas	London School of Economics and Political Science	10.1145/3351095.3375691
+Luke	Stark	Microsoft Research	10.1145/3351095.3375691
+Vijay	Arya	IBM Research	10.1145/3351095.3375667
+Rachel K. E.	Bellamy	IBM Research	10.1145/3351095.3375667
+Pin-Yu	Chen	IBM Research	10.1145/3351095.3375667
+Amit	Dhurandhar	IBM Research	10.1145/3351095.3375667
+Michael	Hind	IBM Research	10.1145/3351095.3375667
+Samuel C.	Hoffman	IBM Research	10.1145/3351095.3375667
+Stephanie	Houde	IBM Research	10.1145/3351095.3375667
+Q. Vera	Liao	IBM Research	10.1145/3351095.3375667
+Ronny	Luss	IBM Research	10.1145/3351095.3375667
+Aleksandra	MojsiloviÄ‡	IBM Research	10.1145/3351095.3375667
+Sami	Mourad	IBM Research	10.1145/3351095.3375667
+Pablo	Pedemonte	IBM Research	10.1145/3351095.3375667
+Ramya	Raghavendra	IBM Research	10.1145/3351095.3375667
+John	Richards	IBM Research	10.1145/3351095.3375667
+Prasanna	Sattigeri	IBM Research	10.1145/3351095.3375667
+Karthikeyan	Shanmugam	IBM Research	10.1145/3351095.3375667
+Moninder	Singh	IBM Research	10.1145/3351095.3375667
+Kush R.	Varshney	IBM Research	10.1145/3351095.3375667
+Dennis	Wei	IBM Research	10.1145/3351095.3375667
+Yunfeng	Zhang	IBM Research	10.1145/3351095.3375667
+Bogdana	Rakova	Accenture	10.1145/3351095.3375672
+Rumman	Chowdhury	Accenture	10.1145/3351095.3375672
+Jingying	Yang	Partnership on AI	10.1145/3351095.3375672
+Marion	Oswald	University of Northumbria, UK	10.1145/3351095.3375673
+David	Powell	Hampshire Constabulary, UK	10.1145/3351095.3375673
+Krishna	Gade	Fiddler Labs	10.1145/3351095.3375664
+Sahin Cem	Geyik	LinkedIn	10.1145/3351095.3375664
+Krishnaram	Kenthapadi	Amazon AWS AI	10.1145/3351095.3375664
+Varun	Mithal	LinkedIn	10.1145/3351095.3375664
+Ankur	Taly	Fiddler Labs	10.1145/3351095.3375664
+Robin Douglas	Burke	University of Colorado	10.1145/3351095.3375670
+Masoud	Mansoury	Eindhoven University of Technology	10.1145/3351095.3375670
+Nasim	Sonboli	University of Colorado, Boulder	10.1145/3351095.3375670
+Indira	Sen	GESIS	10.1145/3351095.3375669
+Fabian	FlÃ¶ck	GESIS	10.1145/3351095.3375669
+Katrin	Weller	GESIS	10.1145/3351095.3375669
+Bernd	WeiÃŸ	GESIS	10.1145/3351095.3375669
+Claudia	Wagner	GESIS	10.1145/3351095.3375669
+Corinne	Cath	Oxford Internet Institute, Oxford, UK	10.1145/3351095.3375665
+Mark	Latonero	Data &amp; Society Research Institute	10.1145/3351095.3375665
+Vidushi	Marda	Article 19, Bangalore, India	10.1145/3351095.3375665
+Roya	Pakzad	Taraaz	10.1145/3351095.3375665
+Natasha	Duarte	Upturn	10.1145/3351095.3375668
+Stan	Adams	Center for Democracy &amp; Technology	10.1145/3351095.3375668
+Christine	Kaeser-Chen	Google Research	10.1145/3351095.3375666
+Elizabeth	Dubois	University of Ottawa	10.1145/3351095.3375666
+Friederike	SchÃ¼Ã¼r	CityBlock Health	10.1145/3351095.3375666
+Emanuel	Moss	CUNY Graduate Center / Data &amp; Society Research Institute	10.1145/3351095.3375666
+James	Wexler	Google	10.1145/3351095.3375662
+Mahima	Pushkarna	Google	10.1145/3351095.3375662
+Sara	Robinson	Google	10.1145/3351095.3375662
+Tolga	Bolukbasi	Google	10.1145/3351095.3375662
+Andrew	Zaldivar	Google	10.1145/3351095.3375662
+Abigail Z.	Jacobs	University of Michigan	10.1145/3351095.3375671
+Su Lin	Blodgett	University of Massachusetts Amherst	10.1145/3351095.3375671
+Solon	Barocas	Microsoft Research and Cornell University	10.1145/3351095.3375671
+Hal	DaumÃ©	Microsoft Research and University of Maryland	10.1145/3351095.3375671
+Hanna	Wallach	Microsoft Research	10.1145/3351095.3375671
+Maya Indira	Ganesh	Leuphana University, Lueneburg, Germany	10.1145/3351095.3375663
+Francien	Dechesne	Leiden University, Leiden, Netherlands	10.1145/3351095.3375663
+Zeerak	Waseem	University of Sheffield, Sheffield, United Kingdom	10.1145/3351095.3375663
+Lelia Marie	Hampton	EECS and CSAIL, MIT, Cambridge, MA, USA	10.1145/3442188.3445929
+Maxime C.	Cohen	Desautels Faculty of Management, McGill University, Montreal, Quebec, Canada	10.1145/3442188.3445864
+Adam N.	Elmachtoub	Department of Industrial Engineering and Operations Research &amp; Data Science Institute, Columbia University, New York, New York, USA	10.1145/3442188.3445864
+Xiao	Lei	Department of Industrial Engineering and Operations Research, Columbia University, New York, New York, USA	10.1145/3442188.3445864
+Harvineet	Singh	Center for Data Science, New York University, New York City, NY, USA	10.1145/3442188.3445865
+Rina	Singh	Tandon School of Engineering, New York University, New York City, NY, USA	10.1145/3442188.3445865
+Vishwali	Mhasawade	Tandon School of Engineering, New York University, New York City, NY, USA	10.1145/3442188.3445865
+Rumi	Chunara	Tandon School of Engineering; School of Global Public Health, New York University, New York City, NY, USA	10.1145/3442188.3445865
+Atoosa	Kasirzadeh	University of Toronto Australian National University	10.1145/3442188.3445866
+Hoda	Heidari	Carnegie Mellon University	10.1145/3442188.3445867
+Jon	Kleinberg	Cornell University	10.1145/3442188.3445867
+Tom	Ron	Technion - Israel Institute of Technology	10.1145/3442188.3445868
+Omer	Ben-Porat	Tel-Aviv University	10.1145/3442188.3445868
+Uri	Shalit	Technion - Israel Institute of Technology	10.1145/3442188.3445868
+Ramya	Srinivasan	Fujitsu Laboratories of America	10.1145/3442188.3445869
+Kanji	Uchino	Fujitsu Laboratories of America	10.1145/3442188.3445869
+Joon Sung	Park	Microsoft Research - Redmond, Stanford University, Stanford, CA, USA	10.1145/3442188.3445870
+Danielle	Bragg	Microsoft Research - New England Cambridge, MA, USA	10.1145/3442188.3445870
+Ece	Kamar	Microsoft Research - Redmond Redmond, WA, USA	10.1145/3442188.3445870
+Meredith Ringel	Morris	Microsoft Research - Redmond Redmond, WA, USA	10.1145/3442188.3445870
+Lauren	Thornton	Lancaster University, Lancaster, UK	10.1145/3442188.3445871
+Bran	Knowles	Lancaster University, Lancaster, UK	10.1145/3442188.3445871
+Gordon	Blair	Lancaster University, Lancaster, UK	10.1145/3442188.3445871
+Kyla	Chasalow	Cornell University	10.1145/3442188.3445872
+Karen	Levy	Cornell University	10.1145/3442188.3445872
+Elinor	Benami	Virginia Tech	10.1145/3442188.3445873
+Reid	Whitaker	University of California Berkeley	10.1145/3442188.3445873
+Vincent	La	Stanford University	10.1145/3442188.3445873
+Hongjin	Lin	Stanford University	10.1145/3442188.3445873
+Brandon R.	Anderson	Stanford University	10.1145/3442188.3445873
+Daniel E.	Ho	Stanford University	10.1145/3442188.3445873
+Marc	Cheong	Centre for AI and Digital Ethics, University of Melbourne Parkville, VIC, Australia	10.1145/3442188.3445874
+Kobi	Leins	Centre for AI and Digital Ethics, University of Melbourne Parkville, VIC, Australia	10.1145/3442188.3445874
+Simon	Coghlan	Centre for AI and Digital Ethics, University of Melbourne Parkville, VIC, Australia	10.1145/3442188.3445874
+Ari	Ball-Burack	Compliant &amp; Accountable Systems Group University of Cambridge, UK	10.1145/3442188.3445875
+Michelle Seng Ah	Lee	Compliant &amp; Accountable Systems Group University of Cambridge, UK	10.1145/3442188.3445875
+Jennifer	Cobbe	Compliant &amp; Accountable Systems Group University of Cambridge, UK	10.1145/3442188.3445875
+Jatinder	Singh	Compliant &amp; Accountable Systems Group University of Cambridge, UK	10.1145/3442188.3445875
+Tim	RÃ¤z	Institute of Philosophy, University of Bern, Switzerland Institute of Biomedical Ethics and History of Medicine, University of ZÃ¼rich, Switzerland	10.1145/3442188.3445876
+Hongjing	Zhang	University of California, Davis	10.1145/3442188.3445878
+Ian	Davidson	University of California, Davis	10.1145/3442188.3445878
+Victoria	Cheng	Vector Institute, University of Toronto, Snap Inc.	10.1145/3442188.3445879
+Vinith M.	Suriyakumar	Vector Institute, University of Toronto	10.1145/3442188.3445879
+Natalie	Dullerud	Vector Institute, University of Toronto	10.1145/3442188.3445879
+Shalmali	Joshi	Vector Institute	10.1145/3442188.3445879
+Marzyeh	Ghassemi	Vector Institute, University of Toronto Canadian CIFAR AI Chair	10.1145/3442188.3445879
+Milagros	Miceli	Technische UniversitÃ¤t Berlin	10.1145/3442188.3445880
+Tianling	Yang	Technische UniversitÃ¤t Berlin	10.1145/3442188.3445880
+Laurens	Naudts	Centre for IT &amp; IP Law (CiTiP), KU Leuven	10.1145/3442188.3445880
+Martin	Schuessler	Technische UniversitÃ¤t Berlin	10.1145/3442188.3445880
+Diana	Serbanescu	Technische UniversitÃ¤t Berlin	10.1145/3442188.3445880
+Alex	Hanna	Google Research	10.1145/3442188.3445880
+Amanda	Coston	Carnegie Mellon University	10.1145/3442188.3445881
+Neel	Guha	Stanford University	10.1145/3442188.3445881
+Derek	Ouyang	Stanford University	10.1145/3442188.3445881
+Lisa	Lu	Stanford University	10.1145/3442188.3445881
+Alexandra	Chouldechova	Carnegie Mellon University	10.1145/3442188.3445881
+Daniel E.	Ho	Stanford University	10.1145/3442188.3445881
+Kate	Donahue	Cornell University	10.1145/3442188.3445882
+Solon	Barocas	Microsoft Research and Cornell University	10.1145/3442188.3445882
+Fereshte	Khani	Stanford University	10.1145/3442188.3445883
+Percy	Liang	Stanford University	10.1145/3442188.3445883
+Pranjal	Awasthi	Rutgers University &amp; Google	10.1145/3442188.3445884
+Alex	Beutel	Google	10.1145/3442188.3445884
+MatthÃ¤us	Kleindessner	Amazon	10.1145/3442188.3445884
+Jamie	Morgenstern	University of Washington &amp; Google	10.1145/3442188.3445884
+Xuezhi	Wang	Google	10.1145/3442188.3445884
+Nicholas	Vincent	Northwestern University	10.1145/3442188.3445885
+Hanlin	Li	Northwestern University	10.1145/3442188.3445885
+Nicole	Tilly	Northwestern University	10.1145/3442188.3445885
+Stevie	Chancellor	University of Minnesota	10.1145/3442188.3445885
+Brent	Hecht	Northwestern University	10.1145/3442188.3445885
+Atoosa	Kasirzadeh	University of Toronto, Australian National University	10.1145/3442188.3445886
+Andrew	Smart	Google	10.1145/3442188.3445886
+Anay	Mehrotra	Yale University	10.1145/3442188.3445887
+L. Elisa	Celis	Yale University	10.1145/3442188.3445887
+McKane	Andrus	Partnership on AI	10.1145/3442188.3445888
+Elena	Spitzer	Partnership on AI	10.1145/3442188.3445888
+Jeffrey	Brown	Partnership on AI, Minnesota State University, Mankato	10.1145/3442188.3445888
+Alice	Xiang	Sony AI, Partnership on AI	10.1145/3442188.3445888
+Nikhil	Garg	UC Berkeley, Berkeley, USA	10.1145/3442188.3445889
+Hannah	Li	Stanford University, Stanford, USA	10.1145/3442188.3445889
+Faidra	Monachou	Stanford University, Stanford, USA	10.1145/3442188.3445889
+Bran	Knowles	Lancaster University, Lancaster, UK	10.1145/3442188.3445890
+John T.	Richards	TJ Watson Research Center, IBM Yorktown Heights, New York, USA	10.1145/3442188.3445890
+Angela E.	Kilby	Northeastern University Boston, Massachusetts, USA	10.1145/3442188.3445891
+Samuel	Yeom	Carnegie Mellon University	10.1145/3442188.3445892
+Michael Carl	Tschantz	International Computer Science Institute	10.1145/3442188.3445892
+Joshua L	Martin	University of Florida Gainesville, Florida	10.1145/3442188.3445893
+Emily	Black	Carnegie Mellon University	10.1145/3442188.3445894
+Matt	Fredrikson	Carnegie Mellon University	10.1145/3442188.3445894
+Nathan	Kallus	Cornell University and Cornell Tech	10.1145/3442188.3445895
+Angela	Zhou	Cornell University and Cornell Tech	10.1145/3442188.3445895
+Nithya	Sambasivan	Google Research Mountain View, CA	10.1145/3442188.3445896
+Erin	Arnesen	Google Research Mountain View, CA	10.1145/3442188.3445896
+Ben	Hutchinson	Google Research Mountain View, CA	10.1145/3442188.3445896
+Tulsee	Doshi	Google Research Mountain View, CA	10.1145/3442188.3445896
+Vinodkumar	Prabhakaran	Google Research Mountain View, CA	10.1145/3442188.3445896
+Rediet	Abebe	University of California, Berkeley	10.1145/3442188.3445897
+Kehinde	Aruleba	University of the Witwatersrand	10.1145/3442188.3445897
+Abeba	Birhane	University College Dublin &amp; Lero	10.1145/3442188.3445897
+Sara	Kingsley	Carnegie Mellon University	10.1145/3442188.3445897
+George	Obaido	University of the Witwatersrand	10.1145/3442188.3445897
+Sekou L.	Remy	IBM Research - Africa	10.1145/3442188.3445897
+Swathi	Sadagopan	Deloitte	10.1145/3442188.3445897
+Kendra	Albert	Harvard Law School Cambridge, MA	10.1145/3442188.3445898
+Maggie	Delano	Swarthmore College, Swarthmore, PA	10.1145/3442188.3445898
+Amir-Hossein	Karimi	MPI-IS, Germany, ETH ZÃ¼rich, Switzerland	10.1145/3442188.3445899
+Bernhard	SchÃ¶lkopf	MPI-IS, Germany	10.1145/3442188.3445899
+Isabel	Valera	MPI-IS, Germany, Saarland University, Germany	10.1145/3442188.3445899
+Simone Diniz Junqueira	Barbosa	Department of Informatics, PUC-Rio Rio de Janeiro, RJ	10.1145/3442188.3445900
+Gabriel Diniz Junqueira	Barbosa	Department of Informatics, PUC-Rio Rio de Janeiro, RJ	10.1145/3442188.3445900
+Clarisse Sieckenius de	Souza	Department of Informatics, PUC-Rio Rio de Janeiro, RJ	10.1145/3442188.3445900
+Carla Faria	LeitÃ£o	Department of Psychology, PUC-Rio Rio de Janeiro, RJ	10.1145/3442188.3445900
+Abigail Z.	Jacobs	University of Michigan	10.1145/3442188.3445901
+Hanna	Wallach	Microsoft Research	10.1145/3442188.3445901
+Alan	Mishler	Department of Statistics, Carnegie Mellon University	10.1145/3442188.3445902
+Edward H.	Kennedy	Department of Statistics, Carnegie Mellon University	10.1145/3442188.3445902
+Alexandra	Chouldechova	Heinz College Carnegie Mellon University	10.1145/3442188.3445902
+Neel	Patel	University of Southern California	10.1145/3442188.3445903
+Martin	Strobel	National University of Singapore	10.1145/3442188.3445903
+Yair	Zick	University of Massachusetts, Amherst	10.1145/3442188.3445903
+Stefania	Ionescu	University of ZÃ¼rich, ZÃ¼rich, Switzerland	10.1145/3442188.3445904
+AnikÃ³	HannÃ¡k	University of ZÃ¼rich, ZÃ¼rich, Switzerland	10.1145/3442188.3445904
+Kenneth	Joseph	University at Buffalo, Buffalo, NY, USA	10.1145/3442188.3445904
+Severin	Kacianka	Technical University of Munich, Garching, Germany	10.1145/3442188.3445905
+Alexander	Pretschner	Technical University of Munich, Garching, Germany	10.1145/3442188.3445905
+Mehrdad	Ghadiri	Georgia Tech, USA	10.1145/3442188.3445906
+Samira	Samadi	MPI for Intelligent Systems, Germany	10.1145/3442188.3445906
+Santosh	Vempala	Georgia Tech, USA	10.1145/3442188.3445906
+Won Ik	Cho	Dept. of ECE and INMC, Seoul National University, Seoul, Korea	10.1145/3442188.3445907
+Jiwon	Kim	Independent Researcher, Daegu, Korea	10.1145/3442188.3445907
+Jaeyeong	Yang	Dept. of Linguistics, Seoul National University, Seoul, Korea	10.1145/3442188.3445907
+Nam Soo	Kim	Dept. of ECE and INMC, Seoul National University, Seoul, Korea	10.1145/3442188.3445907
+William	Boag	MIT, USA	10.1145/3442188.3445909
+Hassan	KanÃ©	WL Research, USA	10.1145/3442188.3445909
+Saumya	Rawat	MIT, USA	10.1145/3442188.3445909
+Jesse	Wei	Beth Israel Deaconess Medical Center, Department of Radiology, USA	10.1145/3442188.3445909
+Alexander	Goehler	Beth Israel Deaconess Medical Center, Department of Radiology, USA	10.1145/3442188.3445909
+Vedant	Nanda	University of Maryland MPI-SWS	10.1145/3442188.3445910
+Samuel	Dooley	University of Maryland	10.1145/3442188.3445910
+Sahil	Singla	University of Maryland	10.1145/3442188.3445910
+Soheil	Feizi	University of Maryland	10.1145/3442188.3445910
+John P.	Dickerson	University of Maryland	10.1145/3442188.3445910
+Mats	Mulder	Delft University of Technology, Delft, The Netherlands	10.1145/3442188.3445911
+Oana	Inel	Delft University of Technology, Delft, The Netherlands	10.1145/3442188.3445911
+Jasper	Oosterman	Blendle Utrecht, The Netherlands	10.1145/3442188.3445911
+Nava	Tintarev	Maastricht University Maastricht, The Netherlands	10.1145/3442188.3445911
+Jessie	Finocchiaro	CU Boulder	10.1145/3442188.3445912
+Roland	Maio	Columbia University	10.1145/3442188.3445912
+Faidra	Monachou	Stanford University	10.1145/3442188.3445912
+Gourab K	Patro	IIT Kharagpur	10.1145/3442188.3445912
+Manish	Raghavan	Cornell University	10.1145/3442188.3445912
+Ana-Andreea	Stoica	Columbia University	10.1145/3442188.3445912
+Stratis	Tsirtsis	Max Planck Institute for Software Systems	10.1145/3442188.3445912
+Mohsen	Abbasi	University of Utah	10.1145/3442188.3445913
+Aditya	Bhaskara	University of Utah	10.1145/3442188.3445913
+Suresh	Venkatasubramanian	University of Utah	10.1145/3442188.3445913
+Inioluwa Deborah	Raji	Mozilla Foundation	10.1145/3442188.3445914
+Morgan Klaus	Scheuerman	Information Science, University of Colorado Boulder	10.1145/3442188.3445914
+Razvan	Amironesei	CADE, University of San Francisco	10.1145/3442188.3445914
+Jialu	Wang	UC Santa Cruz, Santa Cruz, CA, USA	10.1145/3442188.3445915
+Yang	Liu	UC Santa Cruz, Santa Cruz, CA, USA	10.1145/3442188.3445915
+Caleb	Levy	UC Santa Cruz Santa Cruz, CA, USA	10.1145/3442188.3445915
+Eddie	Yang	University of California, San Diego La Jolla, California	10.1145/3442188.3445916
+Margaret E.	Roberts	University of California, San Diego La Jolla, California	10.1145/3442188.3445916
+Ronan	Hamon	European Commission, Joint Research Centre, Ispra, Italy	10.1145/3442188.3445917
+Henrik	Junklewitz	European Commission, Joint Research Centre, Ispra, Italy	10.1145/3442188.3445917
+Gianclaudio	Malgieri	Augmented Law Institute, EDHEC Business School, Lille, France	10.1145/3442188.3445917
+Paul De	Hert	Law Science Technology &amp; Society, Vrije Universiteit Brussel, Brussels, Belgium	10.1145/3442188.3445917
+Laurent	Beslay	European Commission, Joint Research Centre, Ispra, Italy	10.1145/3442188.3445917
+Ignacio	Sanchez	European Commission, Joint Research Centre, Ispra, Italy	10.1145/3442188.3445917
+Ben	Hutchinson	N/A	10.1145/3442188.3445918
+Andrew	Smart	N/A	10.1145/3442188.3445918
+Alex	Hanna	N/A	10.1145/3442188.3445918
+Emily	Denton	N/A	10.1145/3442188.3445918
+Christina	Greer	N/A	10.1145/3442188.3445918
+Oddur	Kjartansson	N/A	10.1145/3442188.3445918
+Parker	Barnes	N/A	10.1145/3442188.3445918
+Margaret	Mitchell	N/A	10.1145/3442188.3445918
+Maximilian	Kasy	University of Oxford, Department of Economics	10.1145/3442188.3445919
+Rediet	Abebe	University of California, Berkeley, Department of Electrical Engineering &amp; Computer Sciences	10.1145/3442188.3445919
+Zaid	Khan	Northeastern University	10.1145/3442188.3445920
+Yun	Fu	Northeastern University	10.1145/3442188.3445920
+Jennifer	Cobbe	Compliant and Accountable Systems Research Group, University of Cambridge, UK	10.1145/3442188.3445921
+Michelle Seng Ah	Lee	Compliant and Accountable Systems Research Group, University of Cambridge, UK	10.1145/3442188.3445921
+Jatinder	Singh	Compliant and Accountable Systems Research Group, University of Cambridge, UK	10.1145/3442188.3445921
+Emily M.	Bender	University of Washington, Seattle, WA, USA	10.1145/3442188.3445922
+Timnit	Gebru	Black in AI, Palo Alto, CA, USA	10.1145/3442188.3445922
+Angelina	McMillan-Major	University of Washington, Seattle, WA, USA	10.1145/3442188.3445922
+Shmargaret	Shmitchell	The Aether	10.1145/3442188.3445922
+Alon	Jacovi	Bar Ilan University	10.1145/3442188.3445923
+Ana	MarasoviÄ‡	Allen Institute for Artificial Intelligence, University of Washington	10.1145/3442188.3445923
+Tim	Miller	School of Computing and Information Systems, The University of Melbourne	10.1145/3442188.3445923
+Yoav	Goldberg	Bar Ilan University, Allen Institute for Artificial Intelligence	10.1145/3442188.3445923
+Elias	GrÃ¼newald	Technische UniversitÃ¤t Berlin, Information Systems Engineering Research Group, Berlin, Germany	10.1145/3442188.3445925
+Frank	Pallas	Technische UniversitÃ¤t Berlin, Information Systems Engineering Research Group, Berlin, Germany	10.1145/3442188.3445925
+Kira	Lussier	University of Toronto	10.1145/3442188.3445926
+Bahar	Taskesen	Ecole Polytechnique FÃ©dÃ©rale de Lausanne, Switzerland	10.1145/3442188.3445927
+Jose	Blanchet	Stanford University, USA	10.1145/3442188.3445927
+Daniel	Kuhn	Ecole Polytechnique FÃ©dÃ©rale de Lausanne, Switzerland	10.1145/3442188.3445927
+Viet Anh	Nguyen	Stanford University, USA	10.1145/3442188.3445927
+Christo	Wilson	Northeastern University	10.1145/3442188.3445928
+Avijit	Ghosh	Northeastern University	10.1145/3442188.3445928
+Shan	Jiang	Northeastern University	10.1145/3442188.3445928
+Alan	Mislove	Northeastern University	10.1145/3442188.3445928
+Lewis	Baker	pymetrics, inc.	10.1145/3442188.3445928
+Janelle	Szary	pymetrics, inc.	10.1145/3442188.3445928
+Kelly	Trindel	pymetrics, inc.	10.1145/3442188.3445928
+Frida	Polli	pymetrics, inc.	10.1145/3442188.3445928
+L. Elisa	Celis	Yale University	10.1145/3442188.3445930
+Chris	Hays	Yale University	10.1145/3442188.3445930
+Anay	Mehrotra	Yale University	10.1145/3442188.3445930
+Nisheeth K.	Vishnoi	Yale University	10.1145/3442188.3445930
+Maria	Kasinidou	Cyprus Center for Algorithmic Transparency, Open University of Cyprus, Nicosia, Cyprus	10.1145/3442188.3445931
+Styliani	Kleanthous	Cyprus Center for Algorithmic Transparency, Open University of Cyprus Nicosia, Cyprus	10.1145/3442188.3445931
+PÄ±nar	Barlas	Research Centre on Interactive Media, Smart Systems and Emerging Technologies, Nicosia, Cyprus	10.1145/3442188.3445931
+Jahna	Otterbacher	Cyprus Center for Algorithmic Transparency, Open University of Cyprus, Nicosia, Cyprus	10.1145/3442188.3445931
+Ryan	Steed	Carnegie Mellon University, Pittsburgh, Pennsylvania, USA	10.1145/3442188.3445932
+Aylin	Caliskan	George Washington University, Washington, USA	10.1145/3442188.3445932
+Smitha	Milli	UC Berkeley	10.1145/3442188.3445933
+Luca	Belli	Twitter	10.1145/3442188.3445933
+Moritz	Hardt	UC Berkeley	10.1145/3442188.3445933
+Vinith M.	Suriyakumar	University of Toronto, Vector Institute	10.1145/3442188.3445934
+Nicolas	Papernot	University of Toronto, Vector Institute	10.1145/3442188.3445934
+Anna	Goldenberg	University of Toronto, Vector Institute	10.1145/3442188.3445934
+Marzyeh	Ghassemi	University of Toronto, Vector Institute	10.1145/3442188.3445934
+Jacob	Metcalf	Data &amp; Society Research Institute New York, NY	10.1145/3442188.3445935
+Emanuel	Moss	Data &amp; Society Research Institute New York, NY CUNY Graduate Center New York, NY	10.1145/3442188.3445935
+Elizabeth Anne	Watkins	Princeton Center for Information Technology Policy Princeton, NJ Data &amp; Society Research Institute New York, NY	10.1145/3442188.3445935
+Ranjit	Singh	Data &amp; Society Research Institute New York, NY	10.1145/3442188.3445935
+Madeleine Clare	Elish	Data &amp; Society Research Institute New York, NY	10.1145/3442188.3445935
+Corinna	Hertweck	Zurich University of Applied Sciences, University of Zurich	10.1145/3442188.3445936
+Christoph	Heitz	Zurich University of Applied Sciences	10.1145/3442188.3445936
+Michele	Loi	University of Zurich	10.1145/3442188.3445936
+Joshua A.	Kroll	Naval Postgraduate School, Monterey, CA	10.1145/3442188.3445937
+P. M.	Krafft	Creative Computing Institute, University of Arts London	10.1145/3442188.3445938
+Meg	Young	Digital Life Initiative, Cornell Tech	10.1145/3442188.3445938
+Michael	Katell	Public Policy Programme, Alan Turing Institute	10.1145/3442188.3445938
+Jennifer E.	Lee	ACLU of Washington	10.1145/3442188.3445938
+Shankar	Narayan	MIRA	10.1145/3442188.3445938
+Micah	Epstein	Coveillance Collective	10.1145/3442188.3445938
+Dharma	Dailey	Human Centered Design &amp; Engineering, University of Washington	10.1145/3442188.3445938
+Bernease	Herman	eScience Institute, University of Washington	10.1145/3442188.3445938
+Aaron	Tam	Evans School of Public Policy &amp; Governance, University of Washington	10.1145/3442188.3445938
+Vivian	Guetler	Department of Sociology, West Virginia University	10.1145/3442188.3445938
+Corinne	Bintz	Department of Computer Science, Middlebury College	10.1145/3442188.3445938
+Daniella	Raz	School of Information, University of Michigan	10.1145/3442188.3445938
+Pa Ousman	Jobe	Albers School of Business &amp; Economics, Seattle University	10.1145/3442188.3445938
+Franziska	Putz	Oxford Department of International Development, University of Oxford	10.1145/3442188.3445938
+Brian	Robick	ACLU of Washington	10.1145/3442188.3445938
+Bissan	Barghouti	ACLU of Washington	10.1145/3442188.3445938
+Luke	Stark	Faculty of Information and Media Studies, University of Western Ontario, London ON Canada	10.1145/3442188.3445939
+Jesse	Hoey	David R. Cheriton School of Computer Science, University of Waterloo, Waterloo ON Canada	10.1145/3442188.3445939
+Elena	Beretta	Nexa Center for Internet &amp; Society, Department of Control and Computer Engineering, Politecnico di Torino, Turin, Italy Fondazione Bruno Kessler Trento, Italy	10.1145/3442188.3445940
+Antonio	VetrÃ²	Nexa Center for Internet &amp; Society, Department of Control and Computer Engineering, Politecnico di Torino, Turin, Italy	10.1145/3442188.3445940
+Bruno	Lepri	Fondazione Bruno Kessler, Trento, Italy	10.1145/3442188.3445940
+Juan Carlos De	Martin	Nexa Center for Internet &amp; Society, Department of Control and Computer Engineering, Politecnico di Torino, Turin, Italy	10.1145/3442188.3445940
+SÃ©rgio	Jesus	Feedzai, DCC-FCUP, Universidade do Porto	10.1145/3442188.3445941
+Catarina	BelÃ©m	Feedzai	10.1145/3442188.3445941
+Vladimir	Balayan	Feedzai	10.1145/3442188.3445941
+JoÃ£o	Bento	Feedzai	10.1145/3442188.3445941
+Pedro	Saleiro	Feedzai	10.1145/3442188.3445941
+Pedro	Bizarro	Feedzai	10.1145/3442188.3445941
+JoÃ£o	Gama	LIAAD, INESCTEC, Universidade do Porto	10.1145/3442188.3445941
+Kathleen	Creel	Stanford University, Palo Alto, California, USA	10.1145/3442188.3445942
+Deborah	Hellman	University of Virginia, Charlottesville, Virginia, USA	10.1145/3442188.3445942
+Leif	Hancox-Li	Capital One, New York, New York, USA	10.1145/3442188.3445943
+I. Elizabeth	Kumar	University of Utah, Salt Lake City, UT, USA	10.1145/3442188.3445943
+Joshua	Williams	Computer Science Department, Carnegie Mellon University	10.1145/3442188.3445908
+J. Zico	Kolter	Computer Science Department, Carnegie Mellon University Bosch Center for AI	10.1145/3442188.3445908
+Nil-Jana	Akpinar	Department of Statistics and Data Science &amp; Machine Learning Department, Carnegie Mellon University	10.1145/3442188.3445877
+Maria	De-Arteaga	Information, Risk, and Operations, Management Department, McCombs School of Business, University of Texas at Austin	10.1145/3442188.3445877
+Alexandra	Chouldechova	Heinz College &amp; Department of Statistics and Data Science, Carnegie Mellon University	10.1145/3442188.3445877
+Hong	Shen	Carnegie Mellon University, Pittsburgh, PA, USA	10.1145/3442188.3445971
+Wesley H.	Deng	University of California, Berkeley Berkeley, CA, USA	10.1145/3442188.3445971
+Aditi	Chattopadhyay	Carnegie Mellon University, Pittsburgh, PA, USA	10.1145/3442188.3445971
+Zhiwei Steven	Wu	Carnegie Mellon University, Pittsburgh, PA, USA	10.1145/3442188.3445971
+Xu	Wang	University of Michigan Ann Arbor, MI, USA	10.1145/3442188.3445971
+Haiyi	Zhu	Carnegie Mellon University, Pittsburgh, PA, USA	10.1145/3442188.3445971
+Jwala	Dhamala	Amazon Alexa AI-NU, USA	10.1145/3442188.3445924
+Tony	Sun	UC Santa Barbara, USA	10.1145/3442188.3445924
+Varun	Kumar	Amazon Alexa AI-NU, USA	10.1145/3442188.3445924
+Satyapriya	Krishna	Amazon Alexa AI-NU, USA	10.1145/3442188.3445924
+Yada	Pruksachatkun	Amazon Alexa AI-NU, USA	10.1145/3442188.3445924
+Kai-Wei	Chang	Amazon Alexa AI-NU, UCLA USA	10.1145/3442188.3445924
+Rahul	Gupta	Amazon Alexa AI-NU, USA	10.1145/3442188.3445924
+Abhisek	Dash	Indian Institute of Technology, Kharagpur, India	10.1145/3442188.3445944
+Abhijnan	Chakraborty	Indian Institute of Technology, Delhi, India	10.1145/3442188.3445944
+Saptarshi	Ghosh	Indian Institute of Technology, Kharagpur, India	10.1145/3442188.3445944
+Animesh	Mukherjee	Indian Institute of Technology, Kharagpur, India	10.1145/3442188.3445944
+Krishna P.	Gummadi	Max Planck Institute for Software, Systems, Germany	10.1145/3442188.3445944
+Madalina	Vlasceanu	New York University, USA	10.1145/3531146.3533069
+Miroslav	Dudik	Microsoft Research, USA	10.1145/3531146.3533069
+Ida	Momennejad	Microsoft Research, USA	10.1145/3531146.3533069
+Junyuan	Hong	Michigan State University, USA	10.1145/3531146.3533070
+Zhangyang	Wang	University of Texas at Austin, USA	10.1145/3531146.3533070
+Jiayu	Zhou	Michigan State University, USA	10.1145/3531146.3533070
+Adriane	Chapman	University of Southampton, United Kingdom	10.1145/3531146.3533071
+Philip	Grylls	University of Southampton, United Kingdom	10.1145/3531146.3533071
+Pamela	Ugwudike	University of Southampton, United Kingdom	10.1145/3531146.3533071
+David	Gammack	University of Southampton, United Kingdom	10.1145/3531146.3533071
+Jacqui	Ayling	University of Southampton, United Kingdom	10.1145/3531146.3533071
+Garfield	Benjamin	Sociology, Solent University, United Kingdom	10.1145/3531146.3533072
+Lukas	Struppek	Department of Computer Science, Technical University of Darmstadt, Germany	10.1145/3531146.3533073
+Dominik	Hintersdorf	Department of Computer Science, Technical University of Darmstadt, Germany	10.1145/3531146.3533073
+Daniel	Neider	Max Planck Institute for Software Systems, Germany and Safety and Explainability of Learning Systems, Carl von Ossietzky University of Oldenburg, Germany	10.1145/3531146.3533073
+Kristian	Kersting	Department of Computer Science and Centre for Cognitive Science, Technical University of Darmstadt, Germany and Hessian Center for Artificial Intelligence, Germany	10.1145/3531146.3533073
+Priya	Goyal	Meta, USA	10.1145/3531146.3533074
+Adriana Romero	Soriano	Meta, Canada	10.1145/3531146.3533074
+Caner	Hazirbas	Meta, USA	10.1145/3531146.3533074
+Levent	Sagun	Meta, France	10.1145/3531146.3533074
+Nicolas	Usunier	Meta, France	10.1145/3531146.3533074
+Katharina	Simbeck	HTW Berlin, Germany	10.1145/3531146.3533076
+Chiara	Longoni	Boston University, Questrom School of Business, USA	10.1145/3531146.3533077
+Andrey	Fradkin	Boston University, Questrom School of Business, USA	10.1145/3531146.3533077
+Luca	Cian	University of Virginia, Darden School of Business, USA	10.1145/3531146.3533077
+Gordon	Pennycook	Hill/Levene Schools of Business, University of Regina, Canada	10.1145/3531146.3533077
+Nicholas	Asher	Institut de Recherche en Informatique de Toulouse, Centre Nationale de Recherche Scientifique, France	10.1145/3531146.3533078
+Julie	Hunter	LINAGORA Labs, France	10.1145/3531146.3533078
+Xiuling	Wang	Stevens institute of technology, USA	10.1145/3531146.3533079
+Wendy Hui	Wang	Stevens institute of technology, USA	10.1145/3531146.3533079
+Severin	Engelmann	Chair of Cyber Trust, Department of Informatics, Technical University Munich, Germany	10.1145/3531146.3533080
+Chiara	Ullstein	Chair of Cyber Trust, Department of Informatics, Technical University Munich, Germany	10.1145/3531146.3533080
+Orestis	Papakyriakopoulos	Princeton University, USA	10.1145/3531146.3533080
+Jens	Grossklags	Chair of Cyber Trust, Department of Informatics, Technical University Munich, Germany	10.1145/3531146.3533080
+Afroditi	Papadaki	University College London, United Kingdom	10.1145/3531146.3533081
+Natalia	Martinez	Duke University, USA	10.1145/3531146.3533081
+Martin	Bertran	Duke University, USA	10.1145/3531146.3533081
+Guillermo	Sapiro	Duke University, USA and Apple Inc., USA	10.1145/3531146.3533081
+Miguel	Rodrigues	University College London, United Kingdom	10.1145/3531146.3533081
+Anubha	Singh	School of Information, University of Michigan, USA	10.1145/3531146.3533082
+Tina	Park	Partnership on AI, USA	10.1145/3531146.3533082
+Abeba	Birhane	Mozilla Foundation &amp; University College Dublin, Ireland	10.1145/3531146.3533083
+Pratyusha	Kalluri	Stanford University, USA	10.1145/3531146.3533083
+Dallas	Card	University of Michigan, USA	10.1145/3531146.3533083
+William	Agnew	University of Washington, USA	10.1145/3531146.3533083
+Ravit	Dotan	University of Pittsburg, USA	10.1145/3531146.3533083
+Michelle	Bao	Stanford University, USA	10.1145/3531146.3533083
+Henry	Fraser	Queensland University of Technology, Centre for Automated Decision-Making and Society, Australia and Queensland University of Technology, Digital Media Research Centre, Australia	10.1145/3531146.3533084
+Rhyle	Simcock	Queensland University of Technology, Centre for Automated Decision-Making and Society, Australia and Queensland University of Technology, Digital Media Research Centre, Australia	10.1145/3531146.3533084
+Aaron J.	Snoswell	Queensland University of Technology, Centre for Automated Decision-Making and Society, Australia and Queensland University of Technology, Digital Media Research Centre, Australia	10.1145/3531146.3533084
+Ronen	Gradwohl	Economics and Business Administration, Ariel University, Israel	10.1145/3531146.3533085
+Moshe	Tennenholtz	Technion - Israel Institute of Technology, Israel	10.1145/3531146.3533085
+Alexandra Sasha	Luccioni	Hugging Face, Canada	10.1145/3531146.3533086
+Frances	Corry	University of Southern California, USA	10.1145/3531146.3533086
+Hamsini	Sridharan	University of Southern California, USA	10.1145/3531146.3533086
+Mike	Ananny	University of Southern California, USA	10.1145/3531146.3533086
+Jason	Schultz	New York University, USA	10.1145/3531146.3533086
+Kate	Crawford	University of Southern California, USA and Microsoft Research, USA	10.1145/3531146.3533086
+Nathan	Kallus	Cornell University, USA and Netflix, USA	10.1145/3531146.3533087
+Laura	Weidinger	DeepMind, United Kingdom	10.1145/3531146.3533088
+Jonathan	Uesato	DeepMind, United Kingdom	10.1145/3531146.3533088
+Maribeth	Rauh	DeepMind, United Kingdom	10.1145/3531146.3533088
+Conor	Griffin	DeepMind, United Kingdom	10.1145/3531146.3533088
+Po-Sen	Huang	DeepMind, United Kingdom	10.1145/3531146.3533088
+John	Mellor	DeepMind, United Kingdom	10.1145/3531146.3533088
+Amelia	Glaese	DeepMind, United Kingdom	10.1145/3531146.3533088
+Myra	Cheng	DeepMind, United Kingdom and California Institute of Technology, USA	10.1145/3531146.3533088
+Borja	Balle	DeepMind, United Kingdom	10.1145/3531146.3533088
+Atoosa	Kasirzadeh	DeepMind, United Kingdom and University of Toronto, Canada	10.1145/3531146.3533088
+Courtney	Biles	DeepMind, United Kingdom	10.1145/3531146.3533088
+Sasha	Brown	DeepMind, United Kingdom	10.1145/3531146.3533088
+Zac	Kenton	DeepMind, United Kingdom	10.1145/3531146.3533088
+Will	Hawkins	DeepMind, United Kingdom	10.1145/3531146.3533088
+Tom	Stepleton	DeepMind, United Kingdom	10.1145/3531146.3533088
+Abeba	Birhane	DeepMind, United Kingdom and University College Dublin, Ireland	10.1145/3531146.3533088
+Lisa Anne	Hendricks	DeepMind, United Kingdom	10.1145/3531146.3533088
+Laura	Rimell	DeepMind, United Kingdom	10.1145/3531146.3533088
+William	Isaac	DeepMind, United Kingdom	10.1145/3531146.3533088
+Julia	Haas	DeepMind, United Kingdom	10.1145/3531146.3533088
+Sean	Legassick	DeepMind, United Kingdom	10.1145/3531146.3533088
+Geoffrey	Irving	DeepMind, United Kingdom	10.1145/3531146.3533088
+Iason	Gabriel	DeepMind, United Kingdom	10.1145/3531146.3533088
+Wiebke Toussaint	Hutiri	Technology, Policy &amp; Management / Engineering Systems &amp; Services / Cyber Physical Intelligence Lab, Delft University of Technology, Netherlands	10.1145/3531146.3533089
+Aaron Yi	Ding	Technology, Policy &amp; Management/Engineering Systems &amp; Services / Cyber Physical Intelligence Lab, Delft University of Technology, Netherlands	10.1145/3531146.3533089
+Andrew	Bell	New York University, USA	10.1145/3531146.3533090
+Ian	Solano-Kamaiko	New York University, USA	10.1145/3531146.3533090
+Oded	Nov	New York University, USA	10.1145/3531146.3533090
+Julia	Stoyanovich	New York University, USA	10.1145/3531146.3533090
+You Jeen	Ha	Korea Advanced Institute of Science and Technology, Republic of Korea	10.1145/3531146.3533091
+David	Tedjopurnomo	RMIT University, Australia	10.1145/3531146.3533092
+Zhifeng	Bao	RMIT University, Australia	10.1145/3531146.3533092
+Farhana	Choudhury	The University of Melbourne, Australia	10.1145/3531146.3533092
+Hui	Luo	RMIT University, Australia	10.1145/3531146.3533092
+A. K.	Qin	Swinburne University of Technology, Australia	10.1145/3531146.3533092
+Sandipan	Sikdar	RWTH Aachen University, Germany	10.1145/3531146.3533094
+Florian	Lemmerich	University of Passau, Germany	10.1145/3531146.3533094
+Markus	Strohmaier	University of Mannheim, Germany and GESIS - Leibniz Institute for the Social Sciences, Germany	10.1145/3531146.3533094
+Han-Yin	Huang	Multimedia Computing Group, Delft University of Technology, Netherlands	10.1145/3531146.3533095
+Cynthia C. S.	Liem	Multimedia Computing Group, Delft University of Technology, Netherlands	10.1145/3531146.3533095
+Maurice	Jakesch	Cornell University, USA	10.1145/3531146.3533097
+Zana	BuÃ§inca	Harvard University, USA	10.1145/3531146.3533097
+Saleema	Amershi	Microsoft Research, USA	10.1145/3531146.3533097
+Alexandra	Olteanu	Microsoft Research, Canada	10.1145/3531146.3533097
+Angelina	Wang	Princeton University, USA	10.1145/3531146.3533099
+Solon	Barocas	Microsoft Research, USA	10.1145/3531146.3533099
+Kristen	Laird	Microsoft, USA	10.1145/3531146.3533099
+Hanna	Wallach	Microsoft Research, USA	10.1145/3531146.3533099
+Angelina	Wang	Princeton University, USA	10.1145/3531146.3533101
+Vikram V	Ramaswamy	Princeton University, USA	10.1145/3531146.3533101
+Olga	Russakovsky	Princeton University, USA	10.1145/3531146.3533101
+Jonathan	Roth	Brown University, USA	10.1145/3531146.3533102
+Guillaume	Saint-Jacques	Apple, USA	10.1145/3531146.3533102
+YinYin	Yu	LinkedIn, USA	10.1145/3531146.3533102
+Smitha	Milli	University of California, Berkeley, USA	10.1145/3531146.3533103
+Luca	Belli	Twitter, USA	10.1145/3531146.3533103
+Moritz	Hardt	Max Planck Institute for Intelligent Systems, Germany	10.1145/3531146.3533103
+Mikaela	Meyer	Department of Statistics &amp; Data Science and Heinz College, Carnegie Mellon University, USA	10.1145/3531146.3533104
+Aaron	Horowitz	American Civil Liberties Union, USA	10.1145/3531146.3533104
+Erica	Marshall	Idaho Justice Project, USA	10.1145/3531146.3533104
+Kristian	Lum	Department of Computer and Information Science, University of Pennsylvania, USA	10.1145/3531146.3533104
+Kristian	Lum	Twitter, USA	10.1145/3531146.3533105
+Yunfeng	Zhang	Twitter, USA	10.1145/3531146.3533105
+Amanda	Bower	Twitter, USA	10.1145/3531146.3533105
+Trystan S.	Goetze	Department of Philosophy, Harvard University, USA	10.1145/3531146.3533106
+Benjamin	Laufer	Cornell Tech, USA	10.1145/3531146.3533107
+Sameer	Jain	Carnegie Mellon University, USA	10.1145/3531146.3533107
+A. Feder	Cooper	Cornell University, USA	10.1145/3531146.3533107
+Jon	Kleinberg	Cornell University, USA	10.1145/3531146.3533107
+Hoda	Heidari	Carnegie Mellon University, USA	10.1145/3531146.3533107
+Anamaria	Crisan	Tableau Research, USA	10.1145/3531146.3533108
+Margaret	Drouhard	Tableau Software, USA	10.1145/3531146.3533108
+Jesse	Vig	Salesforce Research, USA	10.1145/3531146.3533108
+Nazneen	Rajani	Salesforce Research, USA	10.1145/3531146.3533108
+Hong	Shen	Carnegie Mellon University, USA	10.1145/3531146.3533110
+Leijie	Wang	Tsinghua University, China	10.1145/3531146.3533110
+Wesley H.	Deng	Carnegie Mellon University, USA	10.1145/3531146.3533110
+Ciell	Brusse	Dutch Wikipedia, Netherlands	10.1145/3531146.3533110
+Ronald	Velgersdijk	Dutch Wikipedia, Netherlands	10.1145/3531146.3533110
+Haiyi	Zhu	Carnegie Mellon University, USA	10.1145/3531146.3533110
+William	Boag	Massachusetts Institute of Technology, USA	10.1145/3531146.3533111
+Harini	Suresh	Massachusetts Institute of Technology, USA	10.1145/3531146.3533111
+Bianca	Lepe	Massachusetts Institute of Technology, USA	10.1145/3531146.3533111
+Catherine	D'Ignazio	Massachusetts Institute of Technology, USA	10.1145/3531146.3533111
+Tanya	Chowdhury	CIIR, CICS, UMass Amherst, USA	10.1145/3531146.3533112
+Razieh	Rahimi	CIIR, CICS, UMass Amherst, USA	10.1145/3531146.3533112
+James	Allan	CIIR, CICS, UMass Amherst, USA	10.1145/3531146.3533112
+Wesley Hanwen	Deng	Human-Computer Interaction Institute, Carnegie Mellon University, USA	10.1145/3531146.3533113
+Manish	Nagireddy	Carnegie Mellon University, USA	10.1145/3531146.3533113
+Michelle Seng Ah	Lee	University of Cambridge, United Kingdom	10.1145/3531146.3533113
+Jatinder	Singh	University of Cambridge, United Kingdom	10.1145/3531146.3533113
+Zhiwei Steven	Wu	Carnegie Mellon University, USA	10.1145/3531146.3533113
+Kenneth	Holstein	Carnegie Mellon University, USA	10.1145/3531146.3533113
+Haiyi	Zhu	Carnegie Mellon University, USA	10.1145/3531146.3533113
+Youjin	Kong	Philosophy, Oregon State University, USA	10.1145/3531146.3533114
+Marilyn	Zhang	Stanford University, USA	10.1145/3531146.3533115
+Konrad	Kollnig	University of Oxford, United Kingdom	10.1145/3531146.3533116
+Anastasia	Shuba	Independent Researcher, USA	10.1145/3531146.3533116
+Max	Van Kleek	University of Oxford, United Kingdom	10.1145/3531146.3533116
+Reuben	Binns	University of Oxford, United Kingdom	10.1145/3531146.3533116
+Nigel	Shadbolt	University of Oxford, United Kingdom	10.1145/3531146.3533116
+Nina	Markl	University of Edinburgh, United Kingdom	10.1145/3531146.3533117
+Mireia	Yurrita	Human Information Communication Design, TU Delft, Netherlands	10.1145/3531146.3533118
+Dave	Murray-Rust	Human Information Communication Design, TU Delft, Netherlands	10.1145/3531146.3533118
+Agathe	Balayn	Web Information Systems, TU Delft, Netherlands	10.1145/3531146.3533118
+Alessandro	Bozzon	Knowledge and Intelligence Design, TU Delft, Netherlands	10.1145/3531146.3533118
+Serena	Midha	Horizon CDT, University of Nottingham, United Kingdom	10.1145/3531146.3533119
+Max L.	Wilson	Mixed Reality Lab, University of Nottingham, United Kingdom	10.1145/3531146.3533119
+Sarah	Sharples	Faculty of Engineering, University of Nottingham, United Kingdom	10.1145/3531146.3533119
+Mingzi	Niu	Rice University, USA	10.1145/3531146.3533121
+Sampath	Kannan	University of Pennsylvania, USA	10.1145/3531146.3533121
+Aaron	Roth	University of Pennsylvania, USA	10.1145/3531146.3533121
+Rakesh	Vohra	University of Pennsylvania, USA	10.1145/3531146.3533121
+Jessie J.	Smith	University of Colorado, Boulder, USA	10.1145/3531146.3533122
+Saleema	Amershi	Microsoft Research, USA	10.1145/3531146.3533122
+Solon	Barocas	Microsoft Research, USA	10.1145/3531146.3533122
+Hanna	Wallach	Microsoft Research, USA	10.1145/3531146.3533122
+Jennifer	Wortman Vaughan	Microsoft Research, USA	10.1145/3531146.3533122
+Joseph	Donia	University of Toronto, Canada	10.1145/3531146.3533123
+Anay	Mehrotra	Yale University, USA	10.1145/3531146.3533124
+Bary S. R.	Pradelski	National Centre for Scientific Research (CNRS), France	10.1145/3531146.3533124
+Nisheeth K.	Vishnoi	Yale University, USA	10.1145/3531146.3533124
+Hortense	Fong	Yale University, USA	10.1145/3531146.3533126
+Vineet	Kumar	Yale University, USA	10.1145/3531146.3533126
+Anay	Mehrotra	Yale University, USA	10.1145/3531146.3533126
+Nisheeth K.	Vishnoi	Yale University, USA	10.1145/3531146.3533126
+Hendrik	Schuff	Bosch Center for Artificial Intelligence, Germany and University of Stuttgart, Germany	10.1145/3531146.3533127
+Alon	Jacovi	Bar Ilan University, Israel	10.1145/3531146.3533127
+Heike	Adel	Bosch Center for Artificial Intelligence, Germany	10.1145/3531146.3533127
+Yoav	Goldberg	Bar Ilan University, Israel and Allen Institute for Artificial Intelligence, Israel	10.1145/3531146.3533127
+Ngoc Thang	Vu	University of Stuttgart, Germany	10.1145/3531146.3533127
+Avijit	Ghosh	Khoury College of Computer Sciences, Northeastern University, USA	10.1145/3531146.3533128
+Matthew	Jagielski	Google Brain, USA	10.1145/3531146.3533128
+Christo	Wilson	Khoury College of Computer Sciences, Northeastern University, USA	10.1145/3531146.3533128
+Jad	Salem	Georgia Institute of Technology, USA	10.1145/3531146.3533129
+Deven	Desai	Georgia Institute of Technology, USA	10.1145/3531146.3533129
+Swati	Gupta	Georgia Institute of Technology, USA	10.1145/3531146.3533129
+Harini	Suresh	Data + Feminism Lab, Massachusetts Institute of Technology, USA and CSAIL, Massachusetts Institute of Technology, USA	10.1145/3531146.3533132
+Rajiv	Movva	Data + Feminism Lab, Massachusetts Institute of Technology, USA	10.1145/3531146.3533132
+Amelia Lee	Dogan	Data + Feminism Lab, Massachusetts Institute of Technology, USA	10.1145/3531146.3533132
+Rahul	Bhargava	School of Journalism, Northeastern University, USA	10.1145/3531146.3533132
+Isadora	Cruxen	School of Business and Management, Queen Mary University of London, United Kingdom	10.1145/3531146.3533132
+Angeles Martinez	Cuba	Data + Feminism Lab, Massachusetts Institute of Technology, USA	10.1145/3531146.3533132
+Guilia	Taurino	Khoury College of Computer Sciences, Northeastern University, USA	10.1145/3531146.3533132
+Wonyoung	So	Data + Feminism Lab, Massachusetts Institute of Technology, USA	10.1145/3531146.3533132
+Catherine	D'Ignazio	Data + Feminism Lab, Massachusetts Institute of Technology, USA	10.1145/3531146.3533132
+Chris	Norval	Compliant &amp; Accountable Systems Group, University of Cambridge, United Kingdom	10.1145/3531146.3533133
+Kristin	Cornelius	Informatics Department, UCLA, Thousand Oaks, California, United States, USA	10.1145/3531146.3533133
+Jennifer	Cobbe	Compliant &amp; Accountable Systems Group, University of Cambridge, United Kingdom	10.1145/3531146.3533133
+Jatinder	Singh	Compliant &amp; Accountable Systems Group, University of Cambridge, United Kingdom	10.1145/3531146.3533133
+Katrina	Geddes	New York University, USA	10.1145/3531146.3533134
+Harmanpreet	Kaur	University of Michigan, USA	10.1145/3531146.3533135
+Eytan	Adar	University of Michigan, USA	10.1145/3531146.3533135
+Eric	Gilbert	University of Michigan, USA	10.1145/3531146.3533135
+Cliff	Lampe	University of Michigan, USA	10.1145/3531146.3533135
+Preetam	Nandy	LinkedIn Corporation, USA	10.1145/3531146.3533136
+Cyrus	DiCiccio	While at LinkedIn Corporation, USA	10.1145/3531146.3533136
+Divya	Venugopalan	LinkedIn Corporation, USA	10.1145/3531146.3533136
+Heloise	Logan	LinkedIn Corporation, USA	10.1145/3531146.3533136
+Kinjal	Basu	LinkedIn Corporation, USA	10.1145/3531146.3533136
+Noureddine	El Karoui	While at LinkedIn Corporation, USA	10.1145/3531146.3533136
+A. Feder	Cooper	Department of Computer Science, Cornell University, USA	10.1145/3531146.3533137
+Gili	Vidan	Department of Information Science, Cornell University, USA	10.1145/3531146.3533137
+Andrew	Hundt	School of Interactive Computing, Georgia Institute of Technology, USA	10.1145/3531146.3533138
+William	Agnew	University of Washington, USA	10.1145/3531146.3533138
+Vicky	Zeng	Johns Hopkins University, USA	10.1145/3531146.3533138
+Severin	Kacianka	Technical University of Munich, Germany	10.1145/3531146.3533138
+Matthew	Gombolay	School of Interactive Computing, Georgia Institute of Technology, USA	10.1145/3531146.3533138
+Wanrong	Zhang	Harvard University, USA	10.1145/3531146.3533139
+Olga	Ohrimenko	The University of Melbourne, Australia	10.1145/3531146.3533139
+Rachel	Cummings	Columbia University, USA	10.1145/3531146.3533139
+Aaron	Rieke	Upturn, USA	10.1145/3531146.3533140
+Vincent	Southerland	New York University School of Law, USA	10.1145/3531146.3533140
+Dan	Svirsky	Uber Technologies, Inc, USA	10.1145/3531146.3533140
+Mingwei	Hsu	Upturn, USA	10.1145/3531146.3533140
+Danish	Contractor	IBM, USA	10.1145/3531146.3533143
+Daniel	McDuff	Microsoft, USA	10.1145/3531146.3533143
+Julia Katherine	Haines	RAIL, USA	10.1145/3531146.3533143
+Jenny	Lee	RAIL, USA	10.1145/3531146.3533143
+Christopher	Hines	K&amp;L Gates, USA	10.1145/3531146.3533143
+Brent	Hecht	Northwestern University, USA	10.1145/3531146.3533143
+Nicholas	Vincent	Northwestern University, USA	10.1145/3531146.3533143
+Hanlin	Li	Northwestern University, USA	10.1145/3531146.3533143
+Camille	Harris	Georgia Institute of Technology, USA	10.1145/3531146.3533144
+Matan	Halevy	Georgia Institute of Technology, USA	10.1145/3531146.3533144
+Ayanna	Howard	The Ohio State University, USA	10.1145/3531146.3533144
+Amy	Bruckman	Georgia Institute of Technology, USA	10.1145/3531146.3533144
+Diyi	Yang	Georgia Institute of Technology, USA	10.1145/3531146.3533144
+J.D.	Zamfirescu-Pereira	UC Berkeley, USA	10.1145/3531146.3533145
+Jerry	Chen	Stanford University, USA	10.1145/3531146.3533145
+Emily	Wen	Stanford University, USA	10.1145/3531146.3533145
+Allison	Koenecke	Cornell University, USA	10.1145/3531146.3533145
+Nikhil	Garg	Cornell Tech, USA	10.1145/3531146.3533145
+Emma	Pierson	Cornell University, USA	10.1145/3531146.3533145
+Zhen	Dai	University of Chicago, USA	10.1145/3531146.3533146
+Yury	Makarychev	Toyota Technological Institute at Chicago, USA	10.1145/3531146.3533146
+Ali	Vakilian	Toyota Technological Institute at Chicago, USA	10.1145/3531146.3533146
+Leijie	Wang	Department of Computer Science and Technology, Tsinghua University, China	10.1145/3531146.3533147
+Haiyi	Zhu	Human-Computer Interaction Institute, Carnegie Mellon University, USA	10.1145/3531146.3533147
+Divya	Shanmugam	MIT, USA	10.1145/3531146.3533148
+Fernando	Diaz	Google, USA	10.1145/3531146.3533148
+Samira	Shabanian	Microsoft Research, Canada, Canada	10.1145/3531146.3533148
+Michele	Finck	University of Tuebigen, Germany	10.1145/3531146.3533148
+Asia	Biega	Max Planck Institute for Security and Privacy, Germany	10.1145/3531146.3533148
+Emily	Black	Carngie Mellon University, USA	10.1145/3531146.3533149
+Manish	Raghavan	Harvard SEAS, USA	10.1145/3531146.3533149
+Solon	Barocas	Microsoft Research, USA	10.1145/3531146.3533149
+A. Feder	Cooper	Department of Computer Science, Cornell University, USA	10.1145/3531146.3533150
+Emanuel	Moss	Data &amp; Society, USA and Department of Information Science, Cornell Tech, USA	10.1145/3531146.3533150
+Benjamin	Laufer	Department of Information Science, Cornell Tech, USA	10.1145/3531146.3533150
+Helen	Nissenbaum	Department of Information Science, Cornell University, USA	10.1145/3531146.3533150
+Maximilian T.	Fischer	University of Konstanz, Germany	10.1145/3531146.3533151
+Simon David	Hirsbrunner	International Center for Ethics in the Sciences (IZEW), University of TÃ¼bingen, Germany	10.1145/3531146.3533151
+Wolfgang	Jentner	University of Konstanz, Germany	10.1145/3531146.3533151
+Matthias	Miller	University of Konstanz, Germany	10.1145/3531146.3533151
+Daniel A.	Keim	University of Konstanz, Germany	10.1145/3531146.3533151
+Paula	Helm	International Center for Ethics in the Sciences (IZEW), University of TÃ¼bingen, Germany	10.1145/3531146.3533151
+Bryce	McLaughlin	Stanford Graduate School of Business, USA	10.1145/3531146.3533152
+Jann	Spiess	Stanford Graduate School of Business, USA	10.1145/3531146.3533152
+Talia	Gillis	Columbia Law School, USA	10.1145/3531146.3533152
+Sebastian	Bordt	Department of Computer Science, University of TÃ¼bingen, Germany	10.1145/3531146.3533153
+MichÃ¨le	Finck	Law Faculty, University of TÃ¼bingen, Germany	10.1145/3531146.3533153
+Eric	Raidl	Ethics and Philosophy Lab, University of TÃ¼bingen, Germany	10.1145/3531146.3533153
+Ulrike	von Luxburg	Department of Computer Science, University of TÃ¼bingen, Germany	10.1145/3531146.3533153
+Isabel	Chien	Machine Learning Group, University of Cambridge, United Kingdom	10.1145/3531146.3533154
+Nina	Deliu	MRC Biostatistics Unit, University of Cambridge, United Kingdom and MEMOTEF Department, Sapienza University of Rome, Italy	10.1145/3531146.3533154
+Richard	Turner	Machine Learning Group, University of Cambridge, United Kingdom	10.1145/3531146.3533154
+Adrian	Weller	Machine Learning Group, University of Cambridge, United Kingdom and The Alan Turing Institute, United Kingdom	10.1145/3531146.3533154
+Sofia	Villar	MRC Biostatistics Unit, University of Cambridge, United Kingdom	10.1145/3531146.3533154
+Niki	Kilbertus	Technical University of Munich, Germany and Helmholtz Munich, Germany	10.1145/3531146.3533154
+Sun-ha	Hong	Simon Fraser University, Canada	10.1145/3531146.3533155
+Mona	Sloane	University of TÃ¼bingen, Germany and New York University, USA	10.1145/3531146.3533156
+Janina	Zakrzewski	University of TÃ¼bingen, Germany	10.1145/3531146.3533156
+Abeba	Birhane	Mozilla Foundation, USA and School of Computer Science, University College Dublin, Ireland	10.1145/3531146.3533157
+Elayne	Ruane	School of Computer Science, University College Dublin, Ireland	10.1145/3531146.3533157
+Thomas	Laurent	School of Computer Science, University College Dublin, Ireland	10.1145/3531146.3533157
+Matthew	S. Brown	School of Computer Science, Bucknell University, USA	10.1145/3531146.3533157
+Johnathan	Flowers	Worcester State University, USA	10.1145/3531146.3533157
+Anthony	Ventresque	School of Computer Science, University College Dublin, Ireland	10.1145/3531146.3533157
+Christopher	L. Dancy	Dept of Industrial and Manufacturing Engineering &amp; Dept of Computer Science and Engineering, Pennsylvania State University, USA	10.1145/3531146.3533157
+Inioluwa Deborah	Raji	University of California, Berkeley, USA	10.1145/3531146.3533158
+I. Elizabeth	Kumar	Brown University, USA	10.1145/3531146.3533158
+Aaron	Horowitz	American Civil Liberties Union, USA	10.1145/3531146.3533158
+Andrew	Selbst	University of California, Los Angeles, USA	10.1145/3531146.3533158
+Jaspar	Pahl	Multimodal Human Sensing, Fraunhofer-Institute for Integrated Circuits IIS, Germany and Cognitive Systems Group, University of Bamberg, Germany	10.1145/3531146.3533159
+Ines	Rieger	Fraunhofer-Institute for Integrated Circuits IIS, Germany and Cognitive Systems Group, University of Bamberg, Germany	10.1145/3531146.3533159
+Anna	MÃ¶ller	Fraunhofer-Institute for Integrated Circuits IIS, Germany and Chair for Visual Computing, Friedrich-Alexander-UniversitÃ¤t Erlangen-NÃ¼rnberg, Germany	10.1145/3531146.3533159
+Thomas	Wittenberg	Fraunhofer-Institute for Integrated Circuits IIS, Germany and Chair for Visual Computing, Friedrich-Alexander-UniversitÃ¤t Erlangen-NÃ¼rnberg, Germany	10.1145/3531146.3533159
+Ute	Schmid	Cognitive Systems Group, University of Bamberg, Germany and Project Group Comprehensible AI, Fraunhofer-Institute for Integrated Circuits IIS, Germany	10.1145/3531146.3533159
+Wonyoung	So	Department of Urban Studies and Planning, Massachusetts Institute of Technology, USA	10.1145/3531146.3533160
+Pranay	Lohia	Microsoft, India	10.1145/3531146.3533160
+Rakesh	Pimplikar	IBM Research AI, India	10.1145/3531146.3533160
+A.E.	Hosoi	Institute for Data, Systems, and Society, Massachusetts Institute of Technology, USA	10.1145/3531146.3533160
+Catherine	D'Ignazio	Department of Urban Studies and Planning, Massachusetts Institute of Technology, USA	10.1145/3531146.3533160
+Christina	Lu	DeepMind, United Kingdom	10.1145/3531146.3533161
+Jackie	Kay	DeepMind, United Kingdom	10.1145/3531146.3533161
+Kevin	McKee	DeepMind, United Kingdom	10.1145/3531146.3533161
+Jakob	MÃ¶kander	Oxford Internet Institute, University of Oxford, United Kingdom	10.1145/3531146.3533162
+Margi	Sheth	R&amp;D Data Office, AstraZeneca, United Kingdom	10.1145/3531146.3533162
+David	Watson	Department of Statistical Science, University College London, United Kingdom	10.1145/3531146.3533162
+Luciano	Floridi	Oxford Internet Institute, University of Oxford, United Kingdom and Department of Legal Studies, University of, Italy	10.1145/3531146.3533162
+Rui-Jie	Yew	Massachusetts Institute of Technology, USA	10.1145/3531146.3533163
+Alice	Xiang	Sony AI, Japan	10.1145/3531146.3533163
+Yuhao	Du	Computer Science, University at Buffalo, USA	10.1145/3531146.3533165
+Stefania	Ionescu	Informatics, University of Zurich, Switzerland	10.1145/3531146.3533165
+Melanie	Sage	Social Work, University at Buffalo, USA	10.1145/3531146.3533165
+Kenneth	Joseph	Computer Science, University at Buffalo, USA	10.1145/3531146.3533165
+Stephen	Pfohl	Stanford University, USA and Google, USA	10.1145/3531146.3533166
+Yizhe	Xu	Stanford University, USA	10.1145/3531146.3533166
+Agata	Foryciarz	Stanford University, USA	10.1145/3531146.3533166
+Nikolaos	Ignatiadis	Stanford University, USA	10.1145/3531146.3533166
+Julian	Genkins	Stanford University, USA	10.1145/3531146.3533166
+Nigam	Shah	Stanford University, USA	10.1145/3531146.3533166
+Alan	Mishler	JP Morgan AI Research, USA	10.1145/3531146.3533167
+Edward H.	Kennedy	Department of Statistics &amp; Data Science, Carnegie Mellon University, USA	10.1145/3531146.3533167
+Emanuele	Albini	J.P. Morgan AI Research, United Kingdom	10.1145/3531146.3533168
+Jason	Long	J.P. Morgan AI Research, United Kingdom	10.1145/3531146.3533168
+Danial	Dervovic	J.P. Morgan AI Research, United Kingdom	10.1145/3531146.3533168
+Daniele	Magazzeni	J.P. Morgan AI Research, United Kingdom	10.1145/3531146.3533168
+Maarten	Buyl	Ghent University, Belgium	10.1145/3531146.3533169
+Christina	Cociancig	University of Bremen, Germany	10.1145/3531146.3533169
+Cristina	Frattone	Roma Tre University, Italy	10.1145/3531146.3533169
+Nele	Roekens	Unia, Belgium	10.1145/3531146.3533169
+David	Watson	Department of Statistical Science, University College London, United Kingdom	10.1145/3531146.3533170
+Tasfia	Mashiat	George Mason University, USA	10.1145/3531146.3533171
+Xavier	Gitiaux	George Mason University, USA	10.1145/3531146.3533171
+Huzefa	Rangwala	George Mason University, USA	10.1145/3531146.3533171
+Patrick	Fowler	Washington University in St. Louis, USA	10.1145/3531146.3533171
+Sanmay	Das	George Mason University, USA	10.1145/3531146.3533171
+Ira	Globus-Harris	University of Pennsylvania/Amazon, USA	10.1145/3531146.3533172
+Michael	Kearns	University of Pennsylvania/Amazon, USA	10.1145/3531146.3533172
+Aaron	Roth	University of Pennsylvania/Amazon, USA	10.1145/3531146.3533172
+Jerry	Lin	Duke University, USA	10.1145/3531146.3533174
+Carolyn	Chen	Duke University, USA	10.1145/3531146.3533174
+Marc	Chmielewski	Duke University, USA	10.1145/3531146.3533174
+Samia	Zaman	Duke University, USA	10.1145/3531146.3533174
+Brandon	Fain	Computer Science, Duke University, USA	10.1145/3531146.3533174
+Lydia R.	Lucchesi	Australian National University, Australia and CSIRO's Data61, Australia	10.1145/3531146.3533175
+Petra M.	Kuhnert	CSIRO's Data61, Australia and Australian National University, Australia	10.1145/3531146.3533175
+Jenny L.	Davis	Australian National University, Australia	10.1145/3531146.3533175
+Lexing	Xie	Australian National University, Australia and CSIRO's Data61, Australia	10.1145/3531146.3533175
+Marietjie Wilhelmina Maria	Botes	Computer Sciences, SnT Interdisciplinary Centre for Security Reliability and Trust, Luxembourg	10.1145/3531146.3533176
+Logan	Stapleton	University of Minnesota, USA	10.1145/3531146.3533177
+Min Hun	Lee	Singapore Management University, Singapore	10.1145/3531146.3533177
+Diana	Qing	University of California, Berkeley, USA	10.1145/3531146.3533177
+Marya	Wright	University of Southern California, USA	10.1145/3531146.3533177
+Alexandra	Chouldechova	Carnegie Mellon University, USA	10.1145/3531146.3533177
+Ken	Holstein	Carnegie Mellon University, USA	10.1145/3531146.3533177
+Zhiwei Steven	Wu	Carnegie Mellon University, USA	10.1145/3531146.3533177
+Haiyi	Zhu	Carnegie Mellon University, USA	10.1145/3531146.3533177
+Avrim	Blum	TTIC, USA	10.1145/3531146.3533178
+Kevin	Stangl	TTIC, USA	10.1145/3531146.3533178
+Ali	Vakilian	TTIC, USA	10.1145/3531146.3533178
+Aparna	Balagopalan	Massachusetts Institute of Technology, USA	10.1145/3531146.3533179
+Haoran	Zhang	Massachusetts Institute of Technology, USA	10.1145/3531146.3533179
+Kimia	Hamidieh	University of Toronto/Vector Institute, Canada	10.1145/3531146.3533179
+Thomas	Hartvigsen	Massachusetts Institute of Technology, USA	10.1145/3531146.3533179
+Frank	Rudzicz	University of Toronto/Vector Institute, Canada and Unity Health Toronto, Canada	10.1145/3531146.3533179
+Marzyeh	Ghassemi	Massachusetts Institute of Technology, USA and Vector Institute, Canada	10.1145/3531146.3533179
+Emily	Diana	University of Pennsylvania, USA	10.1145/3531146.3533180
+Wesley	Gill	University of Pennsylvania, USA	10.1145/3531146.3533180
+Michael	Kearns	University of Pennsylvania, USA and Amazon AWS AI, USA	10.1145/3531146.3533180
+Krishnaram	Kenthapadi	Fiddler AI, USA	10.1145/3531146.3533180
+Aaron	Roth	University of Pennsylvania, USA and Amazon AWS AI, USA	10.1145/3531146.3533180
+Saeed	Sharifi-Malvajerdi	University of Pennsylvania, USA	10.1145/3531146.3533180
+Aida	Rahmattalabi	University of Southern California, USA	10.1145/3531146.3533181
+Phebe	Vayanos	University of Southern California, USA	10.1145/3531146.3533181
+Kathryn	Dullerud	University of Southern California, USA	10.1145/3531146.3533181
+Eric	Rice	University of Southern California, USA	10.1145/3531146.3533181
+Q.Vera	Liao	Microsoft Research, Canada	10.1145/3531146.3533182
+S. Shyam	Sundar	Pennsylvania State University, USA	10.1145/3531146.3533182
+Robert	Wolfe	University of Washington, USA	10.1145/3531146.3533183
+Aylin	Caliskan	University of Washington, USA	10.1145/3531146.3533183
+Yusuke	Hirota	Osaka University, Japan	10.1145/3531146.3533184
+Yuta	Nakashima	Osaka University, Japan	10.1145/3531146.3533184
+Noa	Garcia	Osaka University, Japan	10.1145/3531146.3533184
+Robert	Wolfe	University of Washington, USA	10.1145/3531146.3533185
+Mahzarin R.	Banaji	Harvard University, USA	10.1145/3531146.3533185
+Aylin	Caliskan	University of Washington, USA	10.1145/3531146.3533185
+Upol	Ehsan	Georgia Institute of Technology, USA	10.1145/3531146.3533186
+Ranjit	Singh	AI on the Ground Initiative, Data &amp; Society Research Institute, USA	10.1145/3531146.3533186
+Jacob	Metcalf	AI on the Ground Initiative, Data &amp; Society Research Institute, USA	10.1145/3531146.3533186
+Mark	Riedl	Georgia Institute of Technology, USA	10.1145/3531146.3533186
+Yongjie	Wang	School of Computer Science and Engineering, Nanyang Technological University, Singapore	10.1145/3531146.3533188
+Hangwei	Qian	School of Computer Science and Engineering, Nanyang Technological University, Singapore	10.1145/3531146.3533188
+Chunyan	Miao	School of Computer Science and Engineering, Nanyang Technological University, Singapore	10.1145/3531146.3533188
+Ruoxi	Shang	University of Washington, USA	10.1145/3531146.3533189
+K. J. Kevin	Feng	University of Washington, USA	10.1145/3531146.3533189
+Chirag	Shah	University of Washington, USA	10.1145/3531146.3533189
+Catalina	Goanta	Utrecht University, Netherlands	10.1145/3531146.3533190
+Thales	Bertaglia	Maastricht University, Netherlands	10.1145/3531146.3533190
+Adriana	Iamnitchi	Maastricht University, Netherlands	10.1145/3531146.3533190
+Patrick	Schramowski	Computer Science Department, Technical University Darmstadt, Germany and Hessian Center for AI (hessian.AI), Germany	10.1145/3531146.3533192
+Christopher	Tauchmann	Computer Science Department, Technical University Darmstadt, Germany and Hessian Center for AI (hessian.AI), Germany	10.1145/3531146.3533192
+Kristian	Kersting	Computer Science Department and Centre for Cognitive Science, Technical University Darmstadt, Germany and Hessian Center for AI (hessian.AI), Germany	10.1145/3531146.3533192
+Riccardo	Fogliato	Carnegie Mellon University, USA	10.1145/3531146.3533193
+Shreya	Chappidi	University of Virginia, USA	10.1145/3531146.3533193
+Matthew	Lungren	Stanford, USA	10.1145/3531146.3533193
+Paul	Fisher	Antech Imaging Services, USA	10.1145/3531146.3533193
+Diane	Wilson	Antech Imaging Services, USA	10.1145/3531146.3533193
+Michael	Fitzke	Mars Digital Technologies, Germany	10.1145/3531146.3533193
+Mark	Parkinson	Mars Digital Technologies, USA	10.1145/3531146.3533193
+Eric	Horvitz	Microsoft Research, USA	10.1145/3531146.3533193
+Kori	Inkpen	Microsoft Research, USA	10.1145/3531146.3533193
+Besmira	Nushi	Microsoft Research, USA	10.1145/3531146.3533193
+Meg	Young	Cornell Tech, USA	10.1145/3531146.3533194
+Michael	Katell	The Alan Turing Institute, United Kingdom	10.1145/3531146.3533194
+P.M.	Krafft	University of the Arts London, United Kingdom	10.1145/3531146.3533194
+Lauren	Thornton	Lancaster University, United Kingdom	10.1145/3531146.3533196
+Bran	Knowles	Lancaster University, United Kingdom	10.1145/3531146.3533196
+Gordon	Blair	UK Centre for Ecology and Hydrology, United Kingdom	10.1145/3531146.3533196
+Francois	Buet-Golfouse	University College London, United Kingdom	10.1145/3531146.3533197
+Islam	Utyagulov	Independent, United Kingdom	10.1145/3531146.3533197
+Daniel	Susser	College of Information Sciences &amp; Technology, The Pennsylvania State University, USA	10.1145/3531146.3533198
+Miriam	Rateike	Max Planck Institute of Intelligent Systems, TÃ¼bingen, Germany and Saarland University, Germany	10.1145/3531146.3533199
+Ayan	Majumdar	Max Planck Institute for Software Systems, Germany and Saarland University, Germany	10.1145/3531146.3533199
+Olga	Mineeva	ETH ZÃ¼rich, Switzerland and Max Planck Institute for Intelligent Systems, TÃ¼bingen, Germany	10.1145/3531146.3533199
+Krishna P.	Gummadi	Max Planck Institute for Software Systems, Germany	10.1145/3531146.3533199
+Isabel	Valera	Saarland University, Germany and Max Planck Institute for Software Systems, Germany	10.1145/3531146.3533199
+Marie-Therese	Png	Oxford Internet Institute, United Kingdom	10.1145/3531146.3533200
+Lindsay	Poirier	Statistical and Data Sciences, Smith College, USA	10.1145/3531146.3533201
+Andrea	Ferrario	ETH Zurich, Switzerland	10.1145/3531146.3533202
+Michele	Loi	Politecnico di Milano, Italy	10.1145/3531146.3533202
+William	Cai	Stanford, USA	10.1145/3531146.3533203
+Ro	Encarnacion	Stanford, USA	10.1145/3531146.3533203
+Bobbie	Chern	Meta, USA	10.1145/3531146.3533203
+Sam	Corbett-Davies	Meta, USA	10.1145/3531146.3533203
+Miranda	Bogen	Meta, USA	10.1145/3531146.3533203
+Stevie	Bergman	Meta, USA	10.1145/3531146.3533203
+Sharad	Goel	Harvard, USA	10.1145/3531146.3533203
+Emily	Black	Computer Science Dept., Carngie Mellon University, USA	10.1145/3531146.3533204
+Hadi	Elzayn	Stanford University, USA	10.1145/3531146.3533204
+Alexandra	Chouldechova	Carnegie Mellon University, USA	10.1145/3531146.3533204
+Jacob	Goldin	Stanford University, USA	10.1145/3531146.3533204
+Daniel	Ho	Stanford University, USA	10.1145/3531146.3533204
+Terrence	Neumann	University of Texas at Austin, USA	10.1145/3531146.3533205
+Maria	De-Arteaga	University of Texas at Austin, USA	10.1145/3531146.3533205
+Sina	Fazelpour	Northeastern University, USA	10.1145/3531146.3533205
+Nic	Fishman	University of Oxford, United Kingdom	10.1145/3531146.3533206
+Leif	Hancox-Li	Capital One, USA	10.1145/3531146.3533206
+Goda	KlumbytÄ—	Faculty of Electrical Engineering and Computer Science, University of Kassel, Germany	10.1145/3531146.3533207
+Claude	Draude	Faculty of Electrical Engineering and Computer Science, University of Kassel, Germany	10.1145/3531146.3533207
+Alex S.	Taylor	Centre for Human-Computer Interaction Design, City, University of London, United Kingdom	10.1145/3531146.3533207
+Sushant	Agarwal	University of Waterloo, Canada	10.1145/3531146.3533209
+Amit	Deshpande	Microsoft Research, India	10.1145/3531146.3533209
+Abdulaziz A.	Almuzaini	Rutgers University, USA	10.1145/3531146.3533211
+Chidansh A.	Bhatt	IBM, USA	10.1145/3531146.3533211
+David M.	Pennock	Rutgers University, USA	10.1145/3531146.3533211
+Vivek K.	Singh	Rutgers University, USA	10.1145/3531146.3533211
+Kristina	Irion	Institute for Information Law, University of Amsterdam, Netherlands	10.1145/3531146.3533212
+Sasha	Costanza-Chock	Algorithmic Justice League, USA	10.1145/3531146.3533213
+Inioluwa Deborah	Raji	Algorithmic Justice League, USA	10.1145/3531146.3533213
+Joy	Buolamwini	Algorithmic Justice League, USA	10.1145/3531146.3533213
+Roel	Dobbe	Technology, Policy and Management, Delft University of Technology, Netherlands	10.1145/3531146.3533215
+Pratik S.	Sachdeva	D-Lab, University of California, Berkeley, USA	10.1145/3531146.3533216
+Renata	Barreto	University of California, Berkeley, USA	10.1145/3531146.3533216
+Claudia	von Vacano	University of California, Berkeley, USA	10.1145/3531146.3533216
+Chris J.	Kennedy	Harvard Medical School, USA	10.1145/3531146.3533216
+Gauri	Kambhatla	University of Texas at Austin, USA	10.1145/3531146.3533217
+Ian	Stewart	University of Michigan, USA	10.1145/3531146.3533217
+Rada	Mihalcea	University of Michigan, USA	10.1145/3531146.3533217
+Jakob	Schoeffer	Karlsruhe Institute of Technology (KIT), Germany	10.1145/3531146.3533218
+Niklas	Kuehl	Karlsruhe Institute of Technology (KIT), Germany	10.1145/3531146.3533218
+Yvette	Machowski	Karlsruhe Institute of Technology (KIT), Germany	10.1145/3531146.3533218
+Brian	Brubach	Computer Science Department, Wellesley College, USA	10.1145/3531146.3533219
+Audrey	Ballarin	Wellesley College, USA	10.1145/3531146.3533219
+Heeba	Nazeer	Wellesley College, USA	10.1145/3531146.3533219
+Kate	Donahue	Cornell University, USA	10.1145/3531146.3533221
+Alexandra	Chouldechova	Amazon, USA	10.1145/3531146.3533221
+Krishnaram	Kenthapadi	Fiddler AI, USA	10.1145/3531146.3533221
+Shikun	Zhang	Carnegie Mellon University, USA	10.1145/3531146.3533222
+Yan	Shvartzshnaider	Department of Electrical Engineering and Computer Science / Lassonde School of Engineering/ The Privacy Rhythm research lab, York University, Canada	10.1145/3531146.3533222
+Yuanyuan	Feng	University of Vermont, Department of Computer Science, University of Vermont, USA	10.1145/3531146.3533222
+Helen	Nissenbaum	Digital Life Initiative, Cornell Tech, USA	10.1145/3531146.3533222
+Norman	Sadeh	Carnegie Mellon University, USA	10.1145/3531146.3533222
+Rebecca Ann	Johnson	Georgetown McCourt School of Public Policy, USA	10.1145/3531146.3533223
+Simone	Zhang	Sociology, University of Notre Dame, USA	10.1145/3531146.3533223
+Cj	Barberan	Rice University, USA	10.1145/3531146.3533224
+Sina	Alemmohammad	Rice University, USA	10.1145/3531146.3533224
+Naiming	Liu	Rice University, USA	10.1145/3531146.3533224
+Randall	Balestriero	Rice University, USA	10.1145/3531146.3533224
+Richard	Baraniuk	Rice University, USA	10.1145/3531146.3533224
+Ziwei	Wu	School of Information Sciences, University of Illinois at Urbana-Champaign, USA	10.1145/3531146.3533225
+Jingrui	He	School of Information Sciences, University of Illinois at Urbana-Champaign, USA	10.1145/3531146.3533225
+McKane	Andrus	Partnership on AI, USA	10.1145/3531146.3533226
+Sarah	Villeneuve	Partnership on AI, USA	10.1145/3531146.3533226
+Nathan	Matias	Citizens and Technology Lab, Cornell University, USA	10.1145/3531146.3533227
+Eric	Pennington	Citizens and Technology Lab, Cornell University, USA	10.1145/3531146.3533227
+Zenobia	Chan	Department of Politics, Princeton University, USA	10.1145/3531146.3533227
+Rediet	Abebe	Department of Electrical Engineering and Computer Sciences, University of California, Berkeley, USA	10.1145/3531146.3533228
+Moritz	Hardt	Max Planck Institute for Intelligent Systems, Germany	10.1145/3531146.3533228
+Angela	Jin	Department of Electrical Engineering and Computer Sciences, University of California, Berkeley, USA	10.1145/3531146.3533228
+John	Miller	Department of Electrical Engineering and Computer Sciences, University of California, Berkeley, USA	10.1145/3531146.3533228
+Ludwig	Schmidt	Paul G. Allen School of Computer Science, University of Washington, USA	10.1145/3531146.3533228
+Rebecca	Wexler	School of Law, University of California, Berkeley, USA	10.1145/3531146.3533228
+Deep	Ganguli	Anthropic, USA	10.1145/3531146.3533229
+Danny	Hernandez	Anthropic, USA	10.1145/3531146.3533229
+Liane	Lovitt	Anthropic, USA	10.1145/3531146.3533229
+Amanda	Askell	Anthropic, USA	10.1145/3531146.3533229
+Yuntao	Bai	Anthropic, USA	10.1145/3531146.3533229
+Anna	Chen	Anthropic, USA	10.1145/3531146.3533229
+Tom	Conerly	Anthropic, USA	10.1145/3531146.3533229
+Nova	Dassarma	Anthropic, USA	10.1145/3531146.3533229
+Dawn	Drain	Anthropic, USA	10.1145/3531146.3533229
+Nelson	Elhage	Anthropic, USA	10.1145/3531146.3533229
+Sheer	El Showk	Anthropic, USA	10.1145/3531146.3533229
+Stanislav	Fort	Anthropic, USA	10.1145/3531146.3533229
+Zac	Hatfield-Dodds	Anthropic, USA	10.1145/3531146.3533229
+Tom	Henighan	Anthropic, USA	10.1145/3531146.3533229
+Scott	Johnston	Anthropic, USA	10.1145/3531146.3533229
+Andy	Jones	Anthropic, USA	10.1145/3531146.3533229
+Nicholas	Joseph	Anthropic, USA	10.1145/3531146.3533229
+Jackson	Kernian	Anthropic, USA	10.1145/3531146.3533229
+Shauna	Kravec	Anthropic, USA	10.1145/3531146.3533229
+Ben	Mann	Anthropic, USA	10.1145/3531146.3533229
+Neel	Nanda	Anthropic, USA	10.1145/3531146.3533229
+Kamal	Ndousse	Anthropic, USA	10.1145/3531146.3533229
+Catherine	Olsson	Anthropic, USA	10.1145/3531146.3533229
+Daniela	Amodei	Anthropic, USA	10.1145/3531146.3533229
+Tom	Brown	Anthropic, USA	10.1145/3531146.3533229
+Jared	Kaplan	Anthropic, USA	10.1145/3531146.3533229
+Sam	McCandlish	Anthropic, USA	10.1145/3531146.3533229
+Christopher	Olah	Anthropic, USA	10.1145/3531146.3533229
+Dario	Amodei	Anthropic, USA	10.1145/3531146.3533229
+Jack	Clark	Anthropic, USA	10.1145/3531146.3533229
+Lydia	Reader	Washington University in St. Louis, USA	10.1145/3531146.3533230
+Pegah	Nokhiz	Brown University, USA	10.1145/3531146.3533230
+Cathleen	Power	Critical Learning, USA	10.1145/3531146.3533230
+Neal	Patwari	Washington University in St. Louis, USA	10.1145/3531146.3533230
+Suresh	Venkatasubramanian	Brown University, USA	10.1145/3531146.3533230
+Sorelle	Friedler	Haverford College, USA	10.1145/3531146.3533230
+Mahima	Pushkarna	Google Research, Canada	10.1145/3531146.3533231
+Andrew	Zaldivar	Google Research, USA	10.1145/3531146.3533231
+Oddur	Kjartansson	Google Research, United Kingdom	10.1145/3531146.3533231
+Lesia	Semenova	Duke University, USA	10.1145/3531146.3533232
+Cynthia	Rudin	Duke University, USA	10.1145/3531146.3533232
+Ronald	Parr	Duke University, USA	10.1145/3531146.3533232
+Ben	Hutchinson	Google Research, Australia	10.1145/3531146.3533233
+Negar	Rostamzadeh	Google Research, Canada	10.1145/3531146.3533233
+Christina	Greer	Google Research, USA	10.1145/3531146.3533233
+Katherine	Heller	Google Research, USA	10.1145/3531146.3533233
+Vinodkumar	Prabhakaran	Google Research, USA	10.1145/3531146.3533233
+Jesse	Dodge	Allen Institute for AI, USA	10.1145/3531146.3533234
+Taylor	Prewitt	Microsoft, USA	10.1145/3531146.3533234
+Remi	Tachet des Combes	Microsoft Research, Canada	10.1145/3531146.3533234
+Erika	Odmark	Microsoft, USA	10.1145/3531146.3533234
+Roy	Schwartz	The Hebrew University of Jerusalem, Israel	10.1145/3531146.3533234
+Emma	Strubell	Carnegie Mellon University, USA	10.1145/3531146.3533234
+Alexandra Sasha	Luccioni	Hugging Face, Canada	10.1145/3531146.3533234
+Noah A.	Smith	Allen Institute for AI, USA	10.1145/3531146.3533234
+Nicole	DeCario	Allen Institute for AI, USA	10.1145/3531146.3533234
+Will	Buchanan	Microsoft, USA	10.1145/3531146.3533234
+Neel	Patel	Viterbi School of engineering, University of Southern California, USA	10.1145/3531146.3533235
+Reza	Shokri	National University of Singapore, Singapore	10.1145/3531146.3533235
+Yair	Zick	University of Massachusetts, Amherst, USA	10.1145/3531146.3533235
+Przemyslaw A.	Grabowicz	College of Information and Computer Sciences, University of Massachusetts Amherst, USA	10.1145/3531146.3533236
+Nicholas	Perello	University of Massachusetts Amherst, USA	10.1145/3531146.3533236
+Aarshee	Mishra	University of Massachusetts Amherst, USA	10.1145/3531146.3533236
+Divya	Ramesh	Computer Science and Engineering, University of Michigan, Ann Arbor, USA	10.1145/3531146.3533237
+Vaishnav	Kameswaran	School of Information, University of Michigan, Ann Arbor, USA	10.1145/3531146.3533237
+Ding	Wang	Google Research, India	10.1145/3531146.3533237
+Nithya	Sambasivan	Unaffiliated, USA	10.1145/3531146.3533237
+Gourab K.	Patro	Indian Institute of Technology, India and L3S Research Center, Germany	10.1145/3531146.3533238
+Lorenzo	Porcaro	Universitat Pompeu Fabra, Spain	10.1145/3531146.3533238
+Laura	Mitchell	Competition and Markets Authority, United Kingdom	10.1145/3531146.3533238
+Qiuyue	Zhang	Accenture Plc, United Kingdom	10.1145/3531146.3533238
+Meike	Zehlike	Zalando Research, Germany and Max-Planck-Institute for Software Systems, Germany	10.1145/3531146.3533238
+Nikhil	Garg	Cornell Tech, USA	10.1145/3531146.3533238
+Negar	Rostamzadeh	Google, Canada	10.1145/3531146.3533239
+Diana	Mincu	Google, United Kingdom	10.1145/3531146.3533239
+Subhrajit	Roy	Google, United Kingdom	10.1145/3531146.3533239
+Andrew	Smart	Google, USA	10.1145/3531146.3533239
+Lauren	Wilcox	Google, USA	10.1145/3531146.3533239
+Mahima	Pushkarna	Google, Canada	10.1145/3531146.3533239
+Jessica	Schrouff	Google, United Kingdom	10.1145/3531146.3533239
+Razvan	Amironesei	Google, USA	10.1145/3531146.3533239
+Nyalleng	Moorosi	Google, Ghana	10.1145/3531146.3533239
+Katherine	Heller	Google, USA	10.1145/3531146.3533239
+Greg	d'Eon	University of British Columbia, Canada	10.1145/3531146.3533240
+Jason	d'Eon	Dalhousie University/Vector Institute, Canada	10.1145/3531146.3533240
+James R.	Wright	University of Alberta, Canada	10.1145/3531146.3533240
+Kevin	Leyton-Brown	University of British Columbia, Canada	10.1145/3531146.3533240
+Ben	Gansky	Human and Social Dimensions in Science and Technology, Arizona State University, USA	10.1145/3531146.3533241
+Sean	McDonald	Digital Public, USA	10.1145/3531146.3533241
+Michael Carl	Tschantz	International Computer Science Institute, USA	10.1145/3531146.3533242
+Cyrus	Cousins	Department of Computer Science, Brown University, USA	10.1145/3531146.3533243
+Nikita	Mehandru	UC Berkeley, USA	10.1145/3531146.3533244
+Samantha	Robertson	UC Berkeley, USA	10.1145/3531146.3533244
+Niloufar	Salehi	UC Berkeley, USA	10.1145/3531146.3533244
+Michele	Loi	Department of Mathematics, Politecnico di Milano, Italy	10.1145/3531146.3533245
+Christoph	Heitz	Institute of Data Analysis and Process, Zurich University of Applied Sciences, Switzerland	10.1145/3531146.3533245
+David Gray	Widder	School of Computer Science, Carnegie Mellon University, USA	10.1145/3531146.3533779
+Dawn	Nafus	Intel Labs, Intel Corporation, USA	10.1145/3531146.3533779
+Laura	Dabbish	School of Computer Science, Carnegie Mellon University, USA	10.1145/3531146.3533779
+James	Herbsleb	School of Computer Science, Carnegie Mellon University, USA	10.1145/3531146.3533779
+Carolyn	Ashurst	Alan Turing Institute, United Kingdom	10.1145/3531146.3533780
+Emmie	Hine	Oxford Internet Institute, USA	10.1145/3531146.3533780
+Paul	Sedille	Harvard Kennedy School, USA	10.1145/3531146.3533780
+Alexis	Carlier	Centre for the Governance of AI, United Kingdom	10.1145/3531146.3533780
+Carolyn	Ashurst	Alan Turing Institute, United Kingdom	10.1145/3531146.3533781
+Solon	Barocas	Cornell / Microsoft Research, USA	10.1145/3531146.3533781
+Rosie	Campbell	OpenAI, USA	10.1145/3531146.3533781
+Deborah	Raji	UC Berkeley / Mozilla, USA	10.1145/3531146.3533781
+Karen	Boyd	San Diego Workforce Partnership, USA	10.1145/3531146.3534626
+Hannah	Devinney	UmeÃ¥ University, Sweden	10.1145/3531146.3534627
+Jenny	BjÃ¶rklund	Uppsala University, Sweden	10.1145/3531146.3534627
+Henrik	BjÃ¶rklund	UmeÃ¥ University, Sweden	10.1145/3531146.3534627
+Gabriel	Lima	School of Computing, KAIST, Republic of Korea and Data Science Group, Institute for Basic Science, Republic of Korea	10.1145/3531146.3534628
+Nina	GrgiÄ‡-HlaÄa	Max Planck Institute for Software Systems, Germany and Max Planck Institute for Research on Collective Goods, Germany	10.1145/3531146.3534628
+Jin Keun	Jeong	School of Law, Kangwon National University, Republic of Korea	10.1145/3531146.3534628
+Meeyoung	Cha	Data Science Group, Institute for Basic Science, Republic of Korea and School of Computing, KAIST, Republic of Korea	10.1145/3531146.3534628
+Tim	Draws	Delft University of Technology, Netherlands	10.1145/3531146.3534629
+David	La Barbera	University of Udine, Italy	10.1145/3531146.3534629
+Michael	Soprano	University of Udine, Italy	10.1145/3531146.3534629
+Kevin	Roitero	University of Udine, Italy	10.1145/3531146.3534629
+Davide	Ceolin	CWI, Netherlands	10.1145/3531146.3534629
+Alessandro	Checco	University of Rome La Sapienza, Italy	10.1145/3531146.3534629
+Stefano	Mizzaro	University of Udine, Italy	10.1145/3531146.3534629
+Ulrike	Kuhl	HammerLab for Machine Learning, Bielefeld University, Germany	10.1145/3531146.3534630
+AndrÃ©	Artelt	HammerLab for Machine Learning, Bielefeld University, Germany	10.1145/3531146.3534630
+Barbara	Hammer	HammerLab for Machine Learning, Bielefeld University, Germany	10.1145/3531146.3534630
+Kristen M.	Scott	KU Leuven, Belgium	10.1145/3531146.3534631
+Sonja Mei	Wang	TU Berlin, Germany	10.1145/3531146.3534631
+Milagros	Miceli	TU Berlin, Germany and DAIR Institute, USA	10.1145/3531146.3534631
+Pieter	Delobelle	KU Leuven, Belgium	10.1145/3531146.3534631
+Karolina	Sztandar-Sztanderska	Faculty of Sociology, University of Warsaw, Poland	10.1145/3531146.3534631
+Bettina	Berendt	TU Berlin, Germany and Weizenbaum Institute, Germany	10.1145/3531146.3534631
+Amr	Sharaf	Microsoft, USA	10.1145/3531146.3534632
+Hal	Daume III	University of Maryland, USA	10.1145/3531146.3534632
+Renkun	Ni	University of Maryland, USA	10.1145/3531146.3534632
+Nicolas	Usunier	Meta AI, France	10.1145/3531146.3534633
+Virginie	Do	Universite Paris Dauphine-PSL, France and Meta AI, France	10.1145/3531146.3534633
+Elvis	Dohmatob	Meta AI, France	10.1145/3531146.3534633
+Karl-Emi KjÃ¦r	Bilstrup	Department of Computer Science, Aarhus University, Denmark	10.1145/3531146.3534634
+Magnus HÃ¸holt	Kaspersen	Department of Computer Science, Aarhus University, Denmark	10.1145/3531146.3534634
+Ira	Assent	Department of Computer Science, Aarhus University, Denmark	10.1145/3531146.3534634
+Simon	Enni	Department of Computer Science, Aarhus University, Denmark	10.1145/3531146.3534634
+Marianne Graves	Petersen	Department of Computer Science, Aarhus University, Denmark	10.1145/3531146.3534634
+Pola	SchwÃ¶bel	Section for Cognitive Systems, Technical University of Denmark, Denmark	10.1145/3531146.3534635
+Peter	Remmers	Technische UniversitÃ¤t Berlin, Germany	10.1145/3531146.3534635
+Camila	Laranjeira da Silva	Department of Computer Science, Universidade Federal de Minas Gerais, Brazil	10.1145/3531146.3534636
+Joao	Macedo	Department of Computer Science, Universidade Federal de Minas Gerais, Brazil	10.1145/3531146.3534636
+Sandra	Avila	Institute of Computing, Universidade Estadual de Campinas, Brazil	10.1145/3531146.3534636
+Jefersson	dos Santos	Department of Computer Science, Universidade Federal de Minas Gerais, Brazil	10.1145/3531146.3534636
+Yacine	Jernite	Hugging Face, USA	10.1145/3531146.3534637
+Huu	Nguyen	Ontocord, USA	10.1145/3531146.3534637
+Stella	Biderman	EleutherAI, USA	10.1145/3531146.3534637
+Anna	Rogers	University of Copenhagen, Denmark	10.1145/3531146.3534637
+Maraim	Masoud	Independent researcher, Ireland	10.1145/3531146.3534637
+Valentin	Danchev	University of Essex, United Kingdom	10.1145/3531146.3534637
+Samson	Tan	AWS AI Research &amp; Education, USA	10.1145/3531146.3534637
+Alexandra Sasha	Luccioni	Hugging Face, Canada	10.1145/3531146.3534637
+Nishant	Subramani	Allen Institute for Artificial Intelligence, USA	10.1145/3531146.3534637
+Isaac	Johnson	Wikimedia, USA	10.1145/3531146.3534637
+Gerard	Dupont	Independent, France	10.1145/3531146.3534637
+Jesse	Dodge	Allen Institute for Artificial Intelligence, USA	10.1145/3531146.3534637
+Kyle	Lo	Allen Institute for Artificial Intelligence, USA	10.1145/3531146.3534637
+Zeerak	Talat	Simon Fraser University, Canada	10.1145/3531146.3534637
+Dragomir	Radev	Yale University, USA	10.1145/3531146.3534637
+Aaron	Gokaslan	Cornell University, USA	10.1145/3531146.3534637
+Somaieh	Nikpoor	CAIDP, Canada	10.1145/3531146.3534637
+Peter	Henderson	Stanford University, USA	10.1145/3531146.3534637
+Rishi	Bommasani	Stanford University, USA	10.1145/3531146.3534637
+Margaret	Mitchell	Hugging Face, USA	10.1145/3531146.3534637
+Samantha	Robertson	University of California, Berkeley, USA	10.1145/3531146.3534638
+Mark	DÃ­az	Google, USA	10.1145/3531146.3534638
+Timo	Speith	Institute of Philosophy and Department of Computer Science, Saarland University, Germany	10.1145/3531146.3534639
+Juniper L.	Lovato	Vermont Complex Systems Center, University of Vermont, USA	10.1145/3531146.3534640
+Antoine	Allard	DÃ©partement de physique, de gÃ©nie physique et dâ€™optique and Centre interdisciplinaire en modÃ©lisation mathÃ©matique, UniversitÃ© Laval, Canada	10.1145/3531146.3534640
+Randall	Harp	Department of Philosophy, University of Vermont, USA	10.1145/3531146.3534640
+Jeremiah	Onaolapo	Department of Computer Science, University of Vermont, USA	10.1145/3531146.3534640
+Laurent	HÃ©bert-Dufresne	Department of Computer Science, University of Vermont, USA	10.1145/3531146.3534640
+Azin	Ghazimatin	Spotify, Germany	10.1145/3531146.3534641
+Matthaus	Kleindessner	Amazon Web Services, Germany	10.1145/3531146.3534641
+Chris	Russell	Amazon Web Services, Germany	10.1145/3531146.3534641
+Ziawasch	Abedjan	Leibniz Universitat Hannover, Germany and Amazon Search, Germany	10.1145/3531146.3534641
+Jacek	Golebiowski	Amazon Search, Germany	10.1145/3531146.3534641
+Hannah	Brown	National University of Singapore, Singapore	10.1145/3531146.3534642
+Katherine	Lee	Cornell University, USA	10.1145/3531146.3534642
+Fatemehsadat	Mireshghallah	University of California, San Diego, USA	10.1145/3531146.3534642
+Reza	Shokri	National University of Singapore, Singapore	10.1145/3531146.3534642
+Florian	TramÃ¨r	Google Research, Switzerland	10.1145/3531146.3534642
+Eleonora	ViganÃ²	Institute of Biomedical Ethics and History of Medicine, University of Zurich, Switzerland	10.1145/3531146.3534643
+Corinna	Hertweck	University of Zurich, Zurich University of Applied Sciences, Switzerland	10.1145/3531146.3534643
+Christoph	Heitz	Zurich University of Applied Sciences, Switzerland	10.1145/3531146.3534643
+Michele	Loi	Politecnico di Milano, Italy	10.1145/3531146.3534643
+Ioannis	Pastaltzidis	Information Technologies Institute, Centre for Research and Technology Hellas, Greece	10.1145/3531146.3534644
+Nikolaos	Dimitriou	Information Technologies Institute, Centre for Research and Technology Hellas, Greece	10.1145/3531146.3534644
+Katherine	Quezada-Tavarez	Centre for IT and IP Law, KU Leuven, Belgium	10.1145/3531146.3534644
+Stergios	Aidinlis	Trilateral Research, United Kingdom	10.1145/3531146.3534644
+Thomas	Marquenie	Centre for IT and IP Law, KU Leuven, Belgium	10.1145/3531146.3534644
+Agata	Gurzawska	Trilateral Research, United Kingdom	10.1145/3531146.3534644
+Dimitrios	Tzovaras	Information Technologies Institute, Centre for Research and Technology Hellas, Greece	10.1145/3531146.3534644
+Joachim	Baumann	Universitiy of Zurich, Switzerland and Zurich University of Applied Sciences, Switzerland	10.1145/3531146.3534645
+AnikÃ³	HannÃ¡k	Universitiy of Zurich, Switzerland	10.1145/3531146.3534645
+Christoph	Heitz	Zurich University of Applied Sciences, Switzerland	10.1145/3531146.3534645
+EfrÃ©n	Cruz CortÃ©s	Michigan Institute of Data Science, Center for the Study of Complex Systems, University of Michigan, USA	10.1145/3531146.3534646
+Sarah	Rajtmajer	College of Information Sciences and Technology, Pennsylvania State University, USA	10.1145/3531146.3534646
+Debashis	Ghosh	Department of Biostatistics and Informatics, University of Colorado School of Public Health, USA	10.1145/3531146.3534646
+Mark	DÃ­az	Google, USA	10.1145/3531146.3534647
+Ian	Kivlichan	Jigsaw, Google, USA	10.1145/3531146.3534647
+Rachel	Rosen	Jigsaw, Google, USA	10.1145/3531146.3534647
+Dylan	Baker	Google, USA	10.1145/3531146.3534647
+Razvan	Amironesei	Google, USA	10.1145/3531146.3534647
+Vinodkumar	Prabhakaran	Google, USA	10.1145/3531146.3534647
+Emily	Denton	Google, USA	10.1145/3531146.3534647

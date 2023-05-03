@@ -1,0 +1,71 @@
+author_given	author_family	affiliation	title
+Chelsea	Barabas	MIT	Interventions over Predictions: Reframing the Ethical Debate for Actuarial Risk Assessment
+Karthik	Dinakar	MIT	Interventions over Predictions: Reframing the Ethical Debate for Actuarial Risk Assessment
+Joichi	Ito	MIT	Interventions over Predictions: Reframing the Ethical Debate for Actuarial Risk Assessment
+Madars	Virza	MIT	Interventions over Predictions: Reframing the Ethical Debate for Actuarial Risk Assessment
+Jonathan 	Zittrain 	Harvard University	Interventions over Predictions: Reframing the Ethical Debate for Actuarial Risk Assessment
+Reuben	Binns	University of Oxford	Fairness in Machine Learning: Lessons from Political Philosophy
+Joy 	Buolamwini	MIT	Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification 
+Timnit 	Gebru	Microsoft	Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification 
+Robin	Burke	DePaul University 	Balanced Neighborhoods for Multi-sided Fairness in Recommendation 
+Nasim	Sonboli	DePaul University 	Balanced Neighborhoods for Multi-sided Fairness in Recommendation 
+Aldo	Ordonez-Gauger 	DePaul University 	Balanced Neighborhoods for Multi-sided Fairness in Recommendation 
+Alexandra	Chouldechova	Carnegie Mellon University 	A case study of algorithm-assisted decision making in child maltreatment hotline screening decisions 
+Chouldechova	Putnam-Hornstein 	University of Southern California	A case study of algorithm-assisted decision making in child maltreatment hotline screening decisions 
+Diana 	Benavides-Prado 	Auckland University of Technology 	A case study of algorithm-assisted decision making in child maltreatment hotline screening decisions 
+Oleksandr	Fialko	Auckland University of Technology 	A case study of algorithm-assisted decision making in child maltreatment hotline screening decisions 
+Rhema	Vaithianathan	Auckland University of Technology 	A case study of algorithm-assisted decision making in child maltreatment hotline screening decisions 
+Amit	Datta	Carnegie Mellon University 	Discrimination in Online Advertising: A Multidisciplinary Inquiry 
+Anupam 	Datta	Carnegie Mellon University 	Discrimination in Online Advertising: A Multidisciplinary Inquiry 
+Jael	Makagon	University of California, Berkeley 	Discrimination in Online Advertising: A Multidisciplinary Inquiry 
+Deirdre K. 	Mulligan 	University of California, Berkeley 	Discrimination in Online Advertising: A Multidisciplinary Inquiry 
+Michael Carl 	Tschantz 	International Computer Science Institute 	Discrimination in Online Advertising: A Multidisciplinary Inquiry 
+Natasha	Duarte	Center for Democracy & Technology 	Mixed Messages? The Limits of Automated Social Media Content Analysis
+Emma	Llanso	Center for Democracy & Technology 	Mixed Messages? The Limits of Automated Social Media Content Analysis
+Anna	Loup	Center for Democracy & Technology 	Mixed Messages? The Limits of Automated Social Media Content Analysis
+Cynthia 	Dwork 	Harvard University 	Decoupled Classifiers for Group-Fair and Efficient Machine Learning 
+Nicole 	Immorlica 	Microsoft Research New England 	Decoupled Classifiers for Group-Fair and Efficient Machine Learning 
+Adam Tauman 	Kalai 	Microsoft Research New England 	Decoupled Classifiers for Group-Fair and Efficient Machine Learning 
+Max 	Leiserson 	University of Maryland 	Decoupled Classifiers for Group-Fair and Efficient Machine Learning 
+Michael D.	Ekstrand	Boise State University 	Privacy for All: Ensuring Fair and Equitable Privacy Protections 
+Rezvan	Joshaghani	Boise State University 	Privacy for All: Ensuring Fair and Equitable Privacy Protections 
+Hoda	Mehrpouyan	Boise State University 	Privacy for All: Ensuring Fair and Equitable Privacy Protections 
+Michael D. 	Ekstrand 	Boise State University 	All The Cool Kids, How Do They Fit In?: Popularity and Demographic Biases in Recommender Evaluation and Effectiveness
+Mucun	Tian	Boise State University 	All The Cool Kids, How Do They Fit In?: Popularity and Demographic Biases in Recommender Evaluation and Effectiveness
+Ion Madrazo 	Azpiazu 	Boise State University 	All The Cool Kids, How Do They Fit In?: Popularity and Demographic Biases in Recommender Evaluation and Effectiveness
+Jennifer D. 	Ekstrand 	Boise State University 	All The Cool Kids, How Do They Fit In?: Popularity and Demographic Biases in Recommender Evaluation and Effectiveness
+Oghenemaro 	Anuyah 	Boise State University 	All The Cool Kids, How Do They Fit In?: Popularity and Demographic Biases in Recommender Evaluation and Effectiveness
+David 	McNeill 	Boise State University 	All The Cool Kids, How Do They Fit In?: Popularity and Demographic Biases in Recommender Evaluation and Effectiveness
+Maria Soledad 	Pera 	Boise State University 	All The Cool Kids, How Do They Fit In?: Popularity and Demographic Biases in Recommender Evaluation and Effectiveness
+Danielle 	Ensign 	University of Utah 	Runaway Feedback Loops in Predictive Policing 
+Sorelle A. 	Friedler 	Haverford College 	Runaway Feedback Loops in Predictive Policing 
+Scott 	Neville 	University of Utah 	Runaway Feedback Loops in Predictive Policing 
+Carlos 	Scheidegger 	University of Arizona 	Runaway Feedback Loops in Predictive Policing 
+Suresh 	Venkatasubramanian 	University of Utah 	Runaway Feedback Loops in Predictive Policing 
+Toshihiro	Kamishima	National Institute of Advanced Industrial Science and Technology 	Recommendation Independence 
+Shotaro	Akaho	National Institute of Advanced Industrial Science and Technology 	Recommendation Independence 
+Hideki	Asoh	National Institute of Advanced Industrial Science and Technology 	Recommendation Independence 
+Jun 	Sakuma 	University of Tsukuba	Recommendation Independence 
+Nishtha 	Madaan 	IBM Research-INDIA 	Analyze, Detect and Remove Gender Stereotyping from Bollywood Movies 
+Sameep 	Mehta 	IBM Research-INDIA 	Analyze, Detect and Remove Gender Stereotyping from Bollywood Movies 
+Taneea S 	Agrawaal 	IIIT-Delhi 	Analyze, Detect and Remove Gender Stereotyping from Bollywood Movies 
+Vrinda 	Malhotra 	IIIT-Delhi 	Analyze, Detect and Remove Gender Stereotyping from Bollywood Movies 
+Aditi 	Aggarwal 	IIIT-Delhi 	Analyze, Detect and Remove Gender Stereotyping from Bollywood Movies 
+Yatin 	Gupta 	MSIT Delhi 	Analyze, Detect and Remove Gender Stereotyping from Bollywood Movies 
+Mayank 	Saxena 	DTU-Delhi 	Analyze, Detect and Remove Gender Stereotyping from Bollywood Movies 
+Aditya Krishna 	Menon 	The Australian National University 	The Cost of Fairness in Binary Classification
+Robert C. 	Williamson 	The Australian National University and DATA61 	The Cost of Fairness in Binary Classification
+Richard L. 	Phillips 	Haverford College 	Interpretable Active Learning 
+Kyu Hyun 	Chang 	Google Inc.	Interpretable Active Learning 
+Sorelle A. 	Friedler 	Haverford College 	Interpretable Active Learning 
+Andrew D. 	Selbst 	Data & Society Research Institute 	Meaningful Information and the Right to Explanation
+Julia 	Powles 	New York University 	Meaningful Information and the Right to Explanation
+Till 	Speicher 	MPI-SWS 	Potential for Discrimination in Online Targeted Advertising 
+Muhammad 	Ali	MPI-SWS 	Potential for Discrimination in Online Targeted Advertising 
+Giridhari 	Venkatadri 	Northeastern University 	Potential for Discrimination in Online Targeted Advertising 
+Filipe Nunes 	Ribeiro 	UFOP, UFMG 	Potential for Discrimination in Online Targeted Advertising 
+George 	Arvanitakis 	MPI-SWS 	Potential for Discrimination in Online Targeted Advertising 
+Fabrício 	Benevenuto 	UFMG 	Potential for Discrimination in Online Targeted Advertising 
+Krishna P. 	Gummadi 	MPI-SWS 	Potential for Discrimination in Online Targeted Advertising 
+Patrick 	Loiseau 	Univ. Grenoble Alpes 	Potential for Discrimination in Online Targeted Advertising 
+Alan 	Mislove 	Northeastern University 	Potential for Discrimination in Online Targeted Advertising 

@@ -1,0 +1,192 @@
+﻿hdi,country_name,mean_edu
+1,Switzerland,13.9
+2,Norway,13.0
+3,Iceland,13.8
+4,"Hong Kong, China (SAR)",12.2
+5,Australia,12.7
+6,Denmark,13.0
+7,Sweden,12.6
+8,Ireland,11.6
+9,Germany,14.1
+10,Netherlands,12.6
+11,Finland,12.9
+12,Singapore,11.9
+13,Belgium,12.4
+13,New Zealand,12.9
+15,Canada,13.8
+16,Liechtenstein,12.5
+17,Luxembourg,13.0
+18,United Kingdom,13.4
+19,Japan,13.4
+19,Republic of Korea,12.5
+21,United States of America,13.7
+22,Israel,13.3
+23,Malta,12.2
+23,Slovenia,12.8
+25,Austria,12.3
+26,United Arab Emirates,12.7
+27,Spain,10.6
+28,France,11.6
+29,Cyprus,12.4
+30,Italy,10.7
+31,Estonia,13.5
+32,Czechia,12.9
+33,Greece,11.4
+34,Poland,13.2
+35,Bahrain,11.0
+35,Lithuania,13.5
+35,Saudi Arabia,11.3
+38,Portugal,9.6
+39,Latvia,13.3
+40,Andorra,10.6
+40,Croatia,12.2
+42,Chile,10.9
+42,Qatar,10.0
+44,San Marino,10.8
+45,Slovakia,12.9
+46,Hungary,12.2
+47,Argentina,11.1
+48,Türkiye,8.6
+49,Montenegro,12.2
+50,Kuwait,7.3
+51,Brunei Darussalam,9.2
+52,Russian Federation,12.8
+53,Romania,11.3
+54,Oman,11.7
+55,Bahamas,12.6
+56,Kazakhstan,12.3
+57,Trinidad and Tobago,11.6
+58,Costa Rica,8.8
+58,Uruguay,9.0
+60,Belarus,12.1
+61,Panama,10.5
+62,Malaysia,10.6
+63,Georgia,12.8
+63,Mauritius,10.4
+63,Serbia,11.4
+66,Thailand,8.7
+67,Albania,11.3
+68,Bulgaria,11.4
+68,Grenada,9.0
+70,Barbados,9.9
+71,Antigua and Barbuda,9.3
+72,Seychelles,10.3
+73,Sri Lanka,10.8
+74,Bosnia and Herzegovina,10.5
+75,Saint Kitts and Nevis,8.7
+76,Iran (Islamic Republic of),10.6
+77,Ukraine,11.1
+78,North Macedonia,10.2
+79,China,7.6
+80,Dominican Republic,9.3
+80,Republic of Moldova,11.8
+80,Palau,12.5
+83,Cuba,12.5
+84,Peru,9.9
+85,Armenia,11.3
+86,Mexico,9.2
+87,Brazil,8.1
+88,Colombia,8.9
+89,Saint Vincent and the Grenadines,10.8
+90,Maldives,7.3
+91,Algeria,8.1
+91,Azerbaijan,10.5
+91,Tonga,11.4
+91,Turkmenistan,11.3
+95,Ecuador,8.8
+96,Mongolia,9.4
+97,Egypt,9.6
+97,Tunisia,7.4
+99,Fiji,10.9
+99,Suriname,9.8
+101,Uzbekistan,11.9
+102,Dominica,8.1
+102,Jordan,10.4
+104,Libya,7.6
+105,Paraguay,8.9
+106,"Palestine, State of",9.9
+106,Saint Lucia,8.5
+108,Guyana,8.6
+109,South Africa,11.4
+110,Jamaica,9.2
+111,Samoa,11.4
+112,Gabon,9.4
+112,Lebanon,8.7
+114,Indonesia,8.6
+115,Viet Nam,8.4
+116,Philippines,9.0
+117,Botswana,10.3
+118,Bolivia (Plurinational State of),9.8
+118,Kyrgyzstan,11.4
+120,Venezuela (Bolivarian Republic of),11.1
+121,Iraq,7.9
+122,Tajikistan,11.3
+123,Belize,8.8
+123,Morocco,5.9
+125,El Salvador,7.2
+126,Nicaragua,7.1
+127,Bhutan,5.2
+128,Cabo Verde,6.3
+129,Bangladesh,7.4
+130,Tuvalu,10.6
+131,Marshall Islands,10.9
+132,India,6.7
+133,Ghana,8.3
+134,Micronesia (Federated States of),7.8
+135,Guatemala,5.7
+136,Kiribati,8.0
+137,Honduras,7.1
+138,Sao Tome and Principe,6.2
+139,Namibia,7.2
+140,Lao People's Democratic Republic,5.4
+140,Timor-Leste,5.4
+140,Vanuatu,7.1
+143,Nepal,5.1
+144,Eswatini (Kingdom of),5.6
+145,Equatorial Guinea,5.9
+146,Cambodia,5.1
+146,Zimbabwe,8.7
+148,Angola,5.4
+149,Myanmar,6.4
+150,Syrian Arab Republic,5.1
+151,Cameroon,6.2
+152,Kenya,6.7
+153,Congo,6.2
+154,Zambia,7.2
+155,Solomon Islands,5.7
+156,Comoros,5.1
+156,Papua New Guinea,4.7
+158,Mauritania,4.9
+159,Côte d'Ivoire,5.2
+160,Tanzania (United Republic of),6.4
+161,Pakistan,4.5
+162,Togo,5.0
+163,Haiti,5.6
+163,Nigeria,7.2
+165,Rwanda,4.4
+166,Benin,4.3
+166,Uganda,5.7
+168,Lesotho,6.0
+169,Malawi,4.5
+170,Senegal,2.9
+171,Djibouti,4.1
+172,Sudan,3.8
+173,Madagascar,5.1
+174,Gambia,4.6
+175,Ethiopia,3.2
+176,Eritrea,4.9
+177,Guinea-Bissau,3.6
+178,Liberia,5.1
+179,Democratic Republic of the Congo,7.0
+180,Afghanistan,3.0
+181,Sierra Leone,4.6
+182,Guinea,2.2
+183,Yemen,3.2
+184,Burkina Faso,2.1
+185,Mozambique,3.2
+186,Mali,2.3
+187,Burundi,3.1
+188,Central African Republic,4.3
+189,Niger,2.1
+190,Chad,2.6
+191,South Sudan,5.7

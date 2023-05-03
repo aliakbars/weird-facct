@@ -1,0 +1,520 @@
+paper_id,affiliation,country
+7,MIT,USA
+7,Microsoft,USA
+17,DePaul University ,USA
+17,DePaul University ,USA
+17,DePaul University ,USA
+12,Carnegie Mellon University ,USA
+12,University of Southern California,USA
+12,Auckland University of Technology ,NZL
+12,Auckland University of Technology ,NZL
+12,Auckland University of Technology ,NZL
+15,Boise State University ,USA
+15,Boise State University ,USA
+15,Boise State University ,USA
+15,Boise State University ,USA
+15,Boise State University ,USA
+15,Boise State University ,USA
+15,Boise State University ,USA
+14,University of Utah ,USA
+14,Haverford College ,USA
+14,University of Utah ,USA
+14,University of Arizona ,USA
+14,University of Utah ,USA
+16,National Institute of Advanced Industrial Science and Technology ,JPN
+16,National Institute of Advanced Industrial Science and Technology ,JPN
+16,National Institute of Advanced Industrial Science and Technology ,JPN
+16,University of Tsukuba,JPN
+8,IBM Research-INDIA ,IND
+8,IBM Research-INDIA ,IND
+8,IIIT-Delhi ,IND
+8,IIIT-Delhi ,IND
+8,IIIT-Delhi ,IND
+8,MSIT Delhi ,IND
+8,DTU-Delhi ,IND
+5,Haverford College ,USA
+5,Google Inc.,USA
+5,Haverford College ,USA
+1,MPI-SWS ,DEU
+1,MPI-SWS ,DEU
+1,Northeastern University ,USA
+1,"UFOP, UFMG ",BRA
+1,MPI-SWS ,DEU
+1,UFMG ,BRA
+1,MPI-SWS ,DEU
+1,Univ. Grenoble Alpes ,FRA
+1,Northeastern University ,USA
+19,"Harvard University, Cambridge, MA",USA
+19,"Carnegie Mellon University, Pittsburgh, PA",USA
+19,"UC Santa Cruz CSE, Santa Cruz, CA",USA
+20,The University of Surrey and The Alan Turing Institute,GBR
+21,University of Colorado Boulder,USA
+21,University of Colorado Boulder,USA
+22,"Information Science, Cornell University",USA
+22,"Information Science, Cornell University",USA
+28,Harvard University,USA
+28,Harvard University,USA
+29,"Department of Computer and Information Sciences, University of Pennsylvania",USA
+29,"Department of Statistics, University of Pennsylvania",USA
+29,"Department of Computer and Information Sciences, University of Pennsylvania",USA
+29,"Department of Computer Science and Engineering, University of Minnesota",USA
+36,Yale University,USA
+36,IIT Kanpur,IND
+36,Ã‰cole Polytechnique FÃ©dÃ©rale de Lausanne (EPFL),CHE
+36,Yale University,USA
+39,ETH ZÃ¼rich,CHE
+39,University of ZÃ¼rich,CHE
+39,MPI-SWS,DEU
+39,ETH ZÃ¼rich,CHE
+42,University of Wisconsin-Madison,USA
+42,University of Wisconsin-Madison,USA
+44,"University of California, Berkeley",USA
+44,"University of California, Berkeley",USA
+44,"University of California, Berkeley",USA
+44,"University of California, Berkeley",USA
+52,Boston University and Tel Aviv University,USA
+52,MIT,USA
+52,MIT,USA
+52,MIT,USA
+52,Boston University,USA
+52,Boston University,USA
+53,Yale University,USA
+53,EPFL,CHE
+53,EPFL,CHE
+53,Yale University,USA
+54,Haverford College,USA
+54,University of Arizona,USA
+54,University of Utah,USA
+54,University of Utah,USA
+54,Haverford College,USA
+54,Haverford College,USA
+55,,
+55,"Cornell Tech, New York, New York, USA",USA
+55,"Cornell Tech, New York, New York, USA",USA
+55,,
+55,"Cornell University, Ithaca, New York, USA",USA
+56,"University of Toronto, Vector Institute",CAN
+56,"University of Toronto, Vector Institute",CAN
+56,"University of Toronto, Vector Institute",CAN
+56,"University of Toronto, Vector Institute",CAN
+58,"Machine Learning Department, Carnegie Mellon University, Pittsburgh, Pennsylvania",USA
+58,"Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, Washington",USA
+58,"Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, Washington and Allen Institute for Artificial, Intelligence, Seattle, Washington",USA
+67,"University of Amsterdam, Amsterdam, Netherlands",NLD
+67,"Ahold Delhaize, Zaandam, Netherlands",NLD
+67,"University of Amsterdam, Amsterdam, Netherlands",NLD
+70,Carnegie Mellon University,USA
+70,Carnegie Mellon University,USA
+70,Carnegie Mellon University,USA
+71,"University of DÃ¼sseldorf, Germany",DEU
+71,"University of DÃ¼sseldorf, Germany",DEU
+71,"University of DÃ¼sseldorf, Germany",DEU
+71,"University of DÃ¼sseldorf, Germany",DEU
+73,Carnegie Mellon University,USA
+73,University of Chicago,USA
+73,University of Chicago,USA
+73,University of Chicago,USA
+73,Los Angeles City Attorney's Office,USA
+73,Carnegie Mellon University,USA
+76,EPFL,CHE
+76,EPFL,CHE
+76,EPFL,CHE
+76,TU Delft / KU Leuven,NLD
+78,"University of California, Irvine",USA
+78,Haverford College,USA
+78,Haverford College,USA
+82,Prosperia Labs,USA
+82,MIT,USA
+82,"ITAM, Mexico City, Mexico",MEX
+82,MIT,USA
+82,IADB,USA
+82,MIT,USA
+88,IBM Research AI,USA
+88,IBM Research AI,USA
+88,IBM Research AI,USA
+90,Article 19,GBR
+90,Jawaharlal Nehru University,IND
+95,Yale University,USA
+95,IIT Kanpur,IND
+95,Yale University,USA
+97,University of Chicago,USA
+97,University of Chicago,USA
+97,University of Chicago,USA
+97,University of Chicago,USA
+97,University of Chicago,USA
+101,"University of Sheffield, Sheffield, UK",GBR
+101,"University of Sheffield, Sheffield, UK",GBR
+101,"University of Sheffield, Sheffield, UK",GBR
+101,"University of Sheffield, Sheffield, UK and Peak Indicators, Chesterfield, UK",GBR
+101,"University of Sheffield, Sheffield, UK",GBR
+101,"University of Sheffield, Sheffield, UK",GBR
+101,"University of Sheffield, Sheffield, UK",GBR
+101,"University of Sheffield, Sheffield, UK",GBR
+101,"University of Sheffield, Sheffield, UK",GBR
+106,Human Rights Data Analysis Group,
+106,San Francisco Public Defender's Office,USA
+106,Human Rights Data Analysis Group,
+112,Harvard University,USA
+112,Harvard University,USA
+114,Princeton University,USA
+114,Princeton University,USA
+114,Stanford University,USA
+114,Princeton University,USA
+114,Princeton University,USA
+115,Wellesley College,USA
+115,University of California,USA
+115,Wellesley College,USA
+118,Carnegie Mellon University,USA
+118,Carnegie Mellon University,USA
+118,Carnegie Mellon University,USA
+118,Carnegie Mellon University,USA
+120,Microsoft Research India,IND
+120,Microsoft Research India,IND
+120,University of Colorado Boulder,USA
+122,Scuola Normale Superiore,ITA
+122,ISI foundation,ITA
+122,University of Pisa,ITA
+156,"Center for Data Science, New York University, New York City, NY, USA",USA
+156,"Tandon School of Engineering, New York University, New York City, NY, USA",USA
+156,"Tandon School of Engineering, New York University, New York City, NY, USA",USA
+156,"Tandon School of Engineering; School of Global Public Health, New York University, New York City, NY, USA",USA
+161,"Microsoft Research - Redmond, Stanford University, Stanford, CA, USA",USA
+161,"Microsoft Research - New England Cambridge, MA, USA",USA
+161,"Microsoft Research - Redmond Redmond, WA, USA",USA
+161,"Microsoft Research - Redmond Redmond, WA, USA",USA
+168,"University of California, Davis",USA
+168,"University of California, Davis",USA
+169,"Vector Institute, University of Toronto, Snap Inc.",CAN
+169,"Vector Institute, University of Toronto",CAN
+169,"Vector Institute, University of Toronto",CAN
+169,Vector Institute,CAN
+169,"Vector Institute, University of Toronto Canadian CIFAR AI Chair",CAN
+170,Technische UniversitÃ¤t Berlin,DEU
+170,Technische UniversitÃ¤t Berlin,DEU
+170,"Centre for IT &amp; IP Law (CiTiP), KU Leuven",BEL
+170,Technische UniversitÃ¤t Berlin,DEU
+170,Technische UniversitÃ¤t Berlin,DEU
+170,Google Research,
+171,Carnegie Mellon University,USA
+171,Stanford University,USA
+171,Stanford University,USA
+171,Stanford University,USA
+171,Carnegie Mellon University,USA
+171,Stanford University,USA
+174,Rutgers University &amp; Google,USA
+174,Google,
+174,Amazon,
+174,University of Washington &amp; Google,USA
+174,Google,
+178,Partnership on AI,
+178,Partnership on AI,
+178,"Partnership on AI, Minnesota State University, Mankato",USA
+178,"Sony AI, Partnership on AI",
+184,Carnegie Mellon University,USA
+184,Carnegie Mellon University,USA
+185,Cornell University and Cornell Tech,USA
+185,Cornell University and Cornell Tech,USA
+186,"Google Research Mountain View, CA",USA
+186,"Google Research Mountain View, CA",USA
+186,"Google Research Mountain View, CA",USA
+186,"Google Research Mountain View, CA",USA
+186,"Google Research Mountain View, CA",USA
+192,"Department of Statistics, Carnegie Mellon University",USA
+192,"Department of Statistics, Carnegie Mellon University",USA
+192,Heinz College Carnegie Mellon University,USA
+193,University of Southern California,USA
+193,National University of Singapore,SGP
+193,"University of Massachusetts, Amherst",USA
+196,"Georgia Tech, USA",USA
+196,"MPI for Intelligent Systems, Germany",DEU
+196,"Georgia Tech, USA",USA
+202,University of Utah,USA
+202,University of Utah,USA
+202,University of Utah,USA
+204,"UC Santa Cruz, Santa Cruz, CA, USA",USA
+204,"UC Santa Cruz, Santa Cruz, CA, USA",USA
+204,"UC Santa Cruz Santa Cruz, CA, USA",USA
+208,"University of Oxford, Department of Economics",GBR
+208,"University of California, Berkeley, Department of Electrical Engineering &amp; Computer Sciences",USA
+215,"Ecole Polytechnique FÃ©dÃ©rale de Lausanne, Switzerland",CHE
+215,"Stanford University, USA",USA
+215,"Ecole Polytechnique FÃ©dÃ©rale de Lausanne, Switzerland",CHE
+215,"Stanford University, USA",USA
+217,Yale University,USA
+217,Yale University,USA
+217,Yale University,USA
+217,Yale University,USA
+218,"Cyprus Center for Algorithmic Transparency, Open University of Cyprus, Nicosia, Cyprus",CYP
+218,"Cyprus Center for Algorithmic Transparency, Open University of Cyprus Nicosia, Cyprus",CYP
+218,"Research Centre on Interactive Media, Smart Systems and Emerging Technologies, Nicosia, Cyprus",CYP
+218,"Cyprus Center for Algorithmic Transparency, Open University of Cyprus, Nicosia, Cyprus",CYP
+221,"University of Toronto, Vector Institute",CAN
+221,"University of Toronto, Vector Institute",CAN
+221,"University of Toronto, Vector Institute",CAN
+221,"University of Toronto, Vector Institute",CAN
+227,"Nexa Center for Internet &amp; Society, Department of Control and Computer Engineering, Politecnico di Torino, Turin, Italy Fondazione Bruno Kessler Trento, Italy",ITA
+227,"Nexa Center for Internet &amp; Society, Department of Control and Computer Engineering, Politecnico di Torino, Turin, Italy",ITA
+227,"Fondazione Bruno Kessler, Trento, Italy",ITA
+227,"Nexa Center for Internet &amp; Society, Department of Control and Computer Engineering, Politecnico di Torino, Turin, Italy",ITA
+231,"Computer Science Department, Carnegie Mellon University",USA
+231,"Computer Science Department, Carnegie Mellon University Bosch Center for AI",USA
+232,"Department of Statistics and Data Science &amp; Machine Learning Department, Carnegie Mellon University",USA
+232,"Information, Risk, and Operations, Management Department, McCombs School of Business, University of Texas at Austin",USA
+232,"Heinz College &amp; Department of Statistics and Data Science, Carnegie Mellon University",USA
+233,"Carnegie Mellon University, Pittsburgh, PA, USA",USA
+233,"University of California, Berkeley Berkeley, CA, USA",USA
+233,"Carnegie Mellon University, Pittsburgh, PA, USA",USA
+233,"Carnegie Mellon University, Pittsburgh, PA, USA",USA
+233,"University of Michigan Ann Arbor, MI, USA",USA
+233,"Carnegie Mellon University, Pittsburgh, PA, USA",USA
+241,"Meta, USA",USA
+241,"Meta, Canada",CAN
+241,"Meta, USA",USA
+241,"Meta, France",FRA
+241,"Meta, France",FRA
+243,"Boston University, Questrom School of Business, USA",USA
+243,"Boston University, Questrom School of Business, USA",USA
+243,"University of Virginia, Darden School of Business, USA",USA
+243,"Hill/Levene Schools of Business, University of Regina, Canada",CAN
+247,"University College London, United Kingdom",GBR
+247,"Duke University, USA",USA
+247,"Duke University, USA",USA
+247,"Duke University, USA and Apple Inc., USA",USA
+247,"University College London, United Kingdom",GBR
+248,"School of Information, University of Michigan, USA",USA
+248,"Partnership on AI, USA",USA
+255,"Technology, Policy &amp; Management / Engineering Systems &amp; Services / Cyber Physical Intelligence Lab, Delft University of Technology, Netherlands",NLD
+255,"Technology, Policy &amp; Management/Engineering Systems &amp; Services / Cyber Physical Intelligence Lab, Delft University of Technology, Netherlands",NLD
+256,"New York University, USA",USA
+256,"New York University, USA",USA
+256,"New York University, USA",USA
+256,"New York University, USA",USA
+257,"Korea Advanced Institute of Science and Technology, Republic of Korea",KOR
+259,"RWTH Aachen University, Germany",DEU
+259,"University of Passau, Germany",DEU
+259,"University of Mannheim, Germany and GESIS - Leibniz Institute for the Social Sciences, Germany",DEU
+261,"Cornell University, USA",USA
+261,"Harvard University, USA",USA
+261,"Microsoft Research, USA",USA
+261,"Microsoft Research, Canada",CAN
+263,"Princeton University, USA",USA
+263,"Princeton University, USA",USA
+263,"Princeton University, USA",USA
+267,"Twitter, USA",USA
+267,"Twitter, USA",USA
+267,"Twitter, USA",USA
+273,"CIIR, CICS, UMass Amherst, USA",USA
+273,"CIIR, CICS, UMass Amherst, USA",USA
+273,"CIIR, CICS, UMass Amherst, USA",USA
+274,"Human-Computer Interaction Institute, Carnegie Mellon University, USA",USA
+274,"Carnegie Mellon University, USA",USA
+274,"University of Cambridge, United Kingdom",GBR
+274,"University of Cambridge, United Kingdom",GBR
+274,"Carnegie Mellon University, USA",USA
+274,"Carnegie Mellon University, USA",USA
+274,"Carnegie Mellon University, USA",USA
+278,"University of Edinburgh, United Kingdom",GBR
+280,"Horizon CDT, University of Nottingham, United Kingdom",GBR
+280,"Mixed Reality Lab, University of Nottingham, United Kingdom",GBR
+280,"Faculty of Engineering, University of Nottingham, United Kingdom",GBR
+286,"Bosch Center for Artificial Intelligence, Germany and University of Stuttgart, Germany",DEU
+286,"Bar Ilan University, Israel",ISR
+286,"Bosch Center for Artificial Intelligence, Germany",DEU
+286,"Bar Ilan University, Israel and Allen Institute for Artificial Intelligence, Israel",ISR
+286,"University of Stuttgart, Germany",DEU
+290,"Compliant &amp; Accountable Systems Group, University of Cambridge, United Kingdom",GBR
+290,"Informatics Department, UCLA, Thousand Oaks, California, United States, USA",USA
+290,"Compliant &amp; Accountable Systems Group, University of Cambridge, United Kingdom",GBR
+290,"Compliant &amp; Accountable Systems Group, University of Cambridge, United Kingdom",GBR
+295,"School of Interactive Computing, Georgia Institute of Technology, USA",USA
+295,"University of Washington, USA",USA
+295,"Johns Hopkins University, USA",USA
+295,"Technical University of Munich, Germany",DEU
+295,"School of Interactive Computing, Georgia Institute of Technology, USA",USA
+297,"Upturn, USA",USA
+297,"New York University School of Law, USA",USA
+297,"Uber Technologies, Inc, USA",USA
+297,"Upturn, USA",USA
+308,"Department of Computer Science, University of TÃ¼bingen, Germany",DEU
+308,"Law Faculty, University of TÃ¼bingen, Germany",DEU
+308,"Ethics and Philosophy Lab, University of TÃ¼bingen, Germany",DEU
+308,"Department of Computer Science, University of TÃ¼bingen, Germany",DEU
+311,"University of TÃ¼bingen, Germany and New York University, USA",DEU
+311,"University of TÃ¼bingen, Germany",DEU
+315,"Department of Urban Studies and Planning, Massachusetts Institute of Technology, USA",USA
+315,"Microsoft, India",IND
+315,"IBM Research AI, India",IND
+315,"Institute for Data, Systems, and Society, Massachusetts Institute of Technology, USA",USA
+315,"Department of Urban Studies and Planning, Massachusetts Institute of Technology, USA",USA
+322,"J.P. Morgan AI Research, United Kingdom",GBR
+322,"J.P. Morgan AI Research, United Kingdom",GBR
+322,"J.P. Morgan AI Research, United Kingdom",GBR
+322,"J.P. Morgan AI Research, United Kingdom",GBR
+324,"Department of Statistical Science, University College London, United Kingdom",GBR
+325,"George Mason University, USA",USA
+325,"George Mason University, USA",USA
+325,"George Mason University, USA",USA
+325,"Washington University in St. Louis, USA",USA
+325,"George Mason University, USA",USA
+326,"University of Pennsylvania/Amazon, USA",USA
+326,"University of Pennsylvania/Amazon, USA",USA
+326,"University of Pennsylvania/Amazon, USA",USA
+328,"Australian National University, Australia and CSIRO's Data61, Australia",AUS
+328,"CSIRO's Data61, Australia and Australian National University, Australia",AUS
+328,"Australian National University, Australia",AUS
+328,"Australian National University, Australia and CSIRO's Data61, Australia",AUS
+330,"University of Minnesota, USA",USA
+330,"Singapore Management University, Singapore",SGP
+330,"University of California, Berkeley, USA",USA
+330,"University of Southern California, USA",USA
+330,"Carnegie Mellon University, USA",USA
+330,"Carnegie Mellon University, USA",USA
+330,"Carnegie Mellon University, USA",USA
+330,"Carnegie Mellon University, USA",USA
+332,"Massachusetts Institute of Technology, USA",USA
+332,"Massachusetts Institute of Technology, USA",USA
+332,"University of Toronto/Vector Institute, Canada",CAN
+332,"Massachusetts Institute of Technology, USA",USA
+332,"University of Toronto/Vector Institute, Canada and Unity Health Toronto, Canada",CAN
+332,"Massachusetts Institute of Technology, USA and Vector Institute, Canada",CAN
+333,"University of Pennsylvania, USA",USA
+333,"University of Pennsylvania, USA",USA
+333,"University of Pennsylvania, USA and Amazon AWS AI, USA",USA
+333,"Fiddler AI, USA",USA
+333,"University of Pennsylvania, USA and Amazon AWS AI, USA",USA
+333,"University of Pennsylvania, USA",USA
+334,"University of Southern California, USA",USA
+334,"University of Southern California, USA",USA
+334,"University of Southern California, USA",USA
+334,"University of Southern California, USA",USA
+338,"University of Washington, USA",USA
+338,"Harvard University, USA",USA
+338,"University of Washington, USA",USA
+339,"Georgia Institute of Technology, USA",USA
+339,"AI on the Ground Initiative, Data &amp; Society Research Institute, USA",USA
+339,"AI on the Ground Initiative, Data &amp; Society Research Institute, USA",USA
+339,"Georgia Institute of Technology, USA",USA
+340,"School of Computer Science and Engineering, Nanyang Technological University, Singapore",SGP
+340,"School of Computer Science and Engineering, Nanyang Technological University, Singapore",SGP
+340,"School of Computer Science and Engineering, Nanyang Technological University, Singapore",SGP
+341,"University of Washington, USA",USA
+341,"University of Washington, USA",USA
+341,"University of Washington, USA",USA
+343,"Computer Science Department, Technical University Darmstadt, Germany and Hessian Center for AI (hessian.AI), Germany",DEU
+343,"Computer Science Department, Technical University Darmstadt, Germany and Hessian Center for AI (hessian.AI), Germany",DEU
+343,"Computer Science Department and Centre for Cognitive Science, Technical University Darmstadt, Germany and Hessian Center for AI (hessian.AI), Germany",DEU
+344,"Carnegie Mellon University, USA",USA
+344,"University of Virginia, USA",USA
+344,"Stanford, USA",USA
+344,"Antech Imaging Services, USA",USA
+344,"Antech Imaging Services, USA",USA
+344,"Mars Digital Technologies, Germany",DEU
+344,"Mars Digital Technologies, USA",USA
+344,"Microsoft Research, USA",USA
+344,"Microsoft Research, USA",USA
+344,"Microsoft Research, USA",USA
+347,"University College London, United Kingdom",GBR
+347,"Independent, United Kingdom",GBR
+349,"Max Planck Institute of Intelligent Systems, TÃ¼bingen, Germany and Saarland University, Germany",DEU
+349,"Max Planck Institute for Software Systems, Germany and Saarland University, Germany",DEU
+349,"ETH ZÃ¼rich, Switzerland and Max Planck Institute for Intelligent Systems, TÃ¼bingen, Germany",DEU
+349,"Max Planck Institute for Software Systems, Germany",DEU
+349,"Saarland University, Germany and Max Planck Institute for Software Systems, Germany",DEU
+354,"Computer Science Dept., Carngie Mellon University, USA",USA
+354,"Stanford University, USA",USA
+354,"Carnegie Mellon University, USA",USA
+354,"Stanford University, USA",USA
+354,"Stanford University, USA",USA
+359,"Rutgers University, USA",USA
+359,"IBM, USA",USA
+359,"Rutgers University, USA",USA
+359,"Rutgers University, USA",USA
+361,"Algorithmic Justice League, USA",USA
+361,"Algorithmic Justice League, USA",USA
+361,"Algorithmic Justice League, USA",USA
+364,"University of Texas at Austin, USA",USA
+364,"University of Michigan, USA",USA
+364,"University of Michigan, USA",USA
+368,"Carnegie Mellon University, USA",USA
+368,"Department of Electrical Engineering and Computer Science / Lassonde School of Engineering/ The Privacy Rhythm research lab, York University, Canada",CAN
+368,"University of Vermont, Department of Computer Science, University of Vermont, USA",USA
+368,"Digital Life Initiative, Cornell Tech, USA",USA
+368,"Carnegie Mellon University, USA",USA
+371,"School of Information Sciences, University of Illinois at Urbana-Champaign, USA",USA
+371,"School of Information Sciences, University of Illinois at Urbana-Champaign, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+375,"Anthropic, USA",USA
+378,"Duke University, USA",USA
+378,"Duke University, USA",USA
+378,"Duke University, USA",USA
+381,"Viterbi School of engineering, University of Southern California, USA",USA
+381,"National University of Singapore, Singapore",SGP
+381,"University of Massachusetts, Amherst, USA",USA
+382,"College of Information and Computer Sciences, University of Massachusetts Amherst, USA",USA
+382,"University of Massachusetts Amherst, USA",USA
+382,"University of Massachusetts Amherst, USA",USA
+383,"Computer Science and Engineering, University of Michigan, Ann Arbor, USA",USA
+383,"School of Information, University of Michigan, Ann Arbor, USA",USA
+383,"Google Research, India",IND
+383,"Unaffiliated, USA",USA
+390,"UC Berkeley, USA",USA
+390,"UC Berkeley, USA",USA
+390,"UC Berkeley, USA",USA
+395,"San Diego Workforce Partnership, USA",USA
+398,"Delft University of Technology, Netherlands",NLD
+398,"University of Udine, Italy",ITA
+398,"University of Udine, Italy",ITA
+398,"University of Udine, Italy",ITA
+398,"CWI, Netherlands",NLD
+398,"University of Rome La Sapienza, Italy",ITA
+398,"University of Udine, Italy",ITA
+400,"KU Leuven, Belgium",BEL
+400,"TU Berlin, Germany",DEU
+400,"TU Berlin, Germany and DAIR Institute, USA",DEU
+400,"KU Leuven, Belgium",BEL
+400,"Faculty of Sociology, University of Warsaw, Poland",POL
+400,"TU Berlin, Germany and Weizenbaum Institute, Germany",DEU
+401,"Microsoft, USA",USA
+401,"University of Maryland, USA",USA
+401,"University of Maryland, USA",USA
+407,"University of California, Berkeley, USA",USA
+407,"Google, USA",USA
+410,"Spotify, Germany",DEU
+410,"Amazon Web Services, Germany",DEU
+410,"Amazon Web Services, Germany",DEU
+410,"Leibniz Universitat Hannover, Germany and Amazon Search, Germany",DEU
+410,"Amazon Search, Germany",DEU
+414,"Universitiy of Zurich, Switzerland and Zurich University of Applied Sciences, Switzerland",CHE
+414,"Universitiy of Zurich, Switzerland",CHE
+414,"Zurich University of Applied Sciences, Switzerland",CHE
+415,"Michigan Institute of Data Science, Center for the Study of Complex Systems, University of Michigan, USA",USA
+415,"College of Information Sciences and Technology, Pennsylvania State University, USA",USA
+415,"Department of Biostatistics and Informatics, University of Colorado School of Public Health, USA",USA
